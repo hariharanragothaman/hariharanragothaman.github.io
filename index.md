@@ -107,7 +107,7 @@
     <!-- Right side -->
     <div class="profile-right">
       <!-- Profile image -->
-      <img src="images/saloni.jpg" alt="Saloni Potdar profile photo">
+      <img src="images/profile.jpeg" alt="Saloni Potdar profile photo">
 
       <!-- Contact info card -->
       <div class="contact-card">
