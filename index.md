@@ -86,7 +86,7 @@
 
     <!-- Left side -->
     <div class="profile-left">
-      <h1>Saloni Potdar</h1>
+      <h1>Hariharan Ragothaman</h1>
       <div class="subtitle">Senior AI/ML Manager @ Apple</div>
 
       <p>
