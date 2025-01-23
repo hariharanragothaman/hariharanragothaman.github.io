@@ -1,0 +1,37 @@
+title: Hariharan Ragothaman
+tagline: Software Engineer @ AMD
+domain: hariharanragothaman.github.io
+url: https://hariharanragothaman.github.io
+description: Hariharan Ragothaman is a Senior Software Engineer at Advanced Micro Devices, Inc (AMD).
+favicon: <i class="fa-solid fa-i"></i> # this is useless. Look at pngs in the `icons/` folder and change
+baseurl: ""
+# gems: [jekyll-paginate]
+# paginate: 5
+
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink: "/:title"
+# relative_permalinks: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+author:
+  name: Hariharan Ragothaman
+  url: https://hariharanragothaman.github.io/
+  email: hariharan.ragothaman-at-apple.com
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'syntax'
+
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
