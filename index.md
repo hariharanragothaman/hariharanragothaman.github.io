@@ -14,14 +14,13 @@ jsarr:
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I work on Natural Language Processing and machine learning research specifically in generative AI, question answering and conversational AI. I am a Senior AI/ML Manager in the Siri and Search team at Apple leading the query understanding and knowledge graph machine learning initiatives. I have 30+ patents and 20+ papers accepted at top conferences like ACL, EMNLP, NAACL, AAAI and KDD with over 1000+ citations.  
-	</div>
+        Hariharan Ragothaman is a seasoned Software Engineer at Advanced Micro Devices (AMD). </div>
 	<div style="height: 1rem"></div>
 	<div>
-        Prior to this I was a Senior Staff Applied Scientist and Engineering Manager at IBM Watson where I designed and developed algorithms for IBM's conversational AI product - Watson Assistant. 
+        Prior to this, he served as a Lead Software Engineer at athenahealth and worked at Bose Corporation as an Embedded Software Engineer.	
 	</div>
 	<div class="intro-left">
-        I got my Masters degree at the Language Technologies Institute at Carnegie Mellon University in 2014. I was awarded the Women in AI Award - North America (Special Jury Recognition) in 2023 for my work in AI.  
+        Hariharan holds a Master of Science degree from Northeastern University and a Bachelor of Engineering from Anna University. With a strong passion for complex systems design, DevOps, embedded systems, distributed systems, and robotics, he thrives on solving challenging technical problems at scale.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
