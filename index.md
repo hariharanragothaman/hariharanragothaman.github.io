@@ -7,7 +7,7 @@ jsarr:
 
 <div id ="intro-wrapper" class="l-page">
 	<div id="intro-title-wrapper" class="intro-left">
-		<h1 id="intro-title">{{ site.title }}</h1>
+		// <h1 id="intro-title">{{ site.title }}</h1>
 		<div id="intro-subtitle">
 			{{ site.tagline }} 
 		</div>
