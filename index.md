@@ -24,7 +24,7 @@ jsarr:
 	<div style="height: 1rem"></div>
 </div>
 
-<div class="intro-right">
+<div class="intro-right" style="float: right; width: 300px;">
 	<img id="intro-image" class="intro-right" src="/images/profile.jpeg">
 	<div style="height: 0.5rem"></div>
 	<div id="intro-image-links" class="intro-right">
