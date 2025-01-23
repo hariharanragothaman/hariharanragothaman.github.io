@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8" />
-  <title>Saloni Potdar</title>
+  <title>Hariharan Ragothaman</title>
   <!-- Link your CSS file if you prefer separate styling -->
   <style>
     /* Just for quick demonstration; move to a separate .css file if desired */
