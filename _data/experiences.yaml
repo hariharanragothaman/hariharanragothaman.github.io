@@ -8,7 +8,7 @@
 
 - institution: Bain Capital
   location: "Boston, MA, USA"
-  position: Senior Software Engineer, Member of Technical Staff
+  position: Senior Software Engineer
   group: "Platform Services - IT, Private & Strategic Investments"
   year: "Dec 2024 - Jan 2025"
   description: "During my brief tenure at Bain Capital—parent company of my former employer, athenahealth—I continued the data engineering efforts. Specifically, I designed and implemented Airflow DAGs and data flows to streamline data warehousing operations, while also contributing to a multi-tenant Airflow architecture that ensured scalability and efficiency across the organization."
