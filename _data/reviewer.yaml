@@ -60,11 +60,11 @@
     - year: 2023
       url: https://2023.aclweb.org/calls/industry_track/
 
-- venue: Web Conference Industry Track
+- venue: Safe Generative AI Workshop @ NeurIPS 2024
   venue-shorthand: Reviewer
   years:
-    - year: 2023
-      url: https://www2023.thewebconf.org/calls/industry/
+    - year: 2024
+      url: https://safegenaiworkshop.github.io/
 
 - venue: Machine Learning and Compression Workshop @ NeurIPS 2024
   venue-shorthand: Reviewer
