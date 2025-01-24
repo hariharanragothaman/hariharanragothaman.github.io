@@ -4,23 +4,22 @@
     - year: 2025
       url: https://2025.emnlp.org/calls/industry_track/
 
-- venue: Apple Ph.D. Fellowship Selection Committee
-  venue-shorthand: Information Retrieval and Knowledge Graph
+- venue: 23rd USENIX Conference on File and Storage Technologies (FAST '25)
+  venue-shorthand: Technical Program Committee Chair & Reviewer
   years:
-    - year: 2023
-    - year: 2024
-      url: https://www.apple.com/education/higher-education/scholars/
+    - year: 2025
+      url: https://fast25ae.usenix.hotcrp.com/users/pc
 
 - venue: iLRN 2025 - 11th International Conference of the Immersive Learning Research Network
   venue-shorthand: Program Committee, Reviewer
   years:
-    - year: 2024
+    - year: 2025
       url: https://www.immersivelrn.org/ilrn2025/organizing-committee/
 
 - venue: AAAI 2025 Undergraduate Consortium
   venue-shorthand: Reviewer & Mentor
   years:
-    - year: 2024
+    - year: 2025
       url: https://aaai.org/conference/aaai/aaai-25/
 
 - venue: Journal of Open Source Software
