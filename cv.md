@@ -97,7 +97,7 @@ jsarr:
 {% include cv/university_lectures.html talk=title %}
 {% endfor %}
 
-## Collaborators and Interns
+## Mentees and Interns
 
 {::nomarkdown}
 {% for mentee in site.data.mentoring %}
