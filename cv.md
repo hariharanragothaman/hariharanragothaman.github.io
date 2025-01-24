@@ -11,7 +11,7 @@ jsarr:
 <p id="cv-subtitle"><i> {{ site.tagline }} </i></p>
 
 
-<div>
+<div style="text-align: justify;">
     I am a Lead Software Engineer with 10+ years of industry experience—including 2 years in management—and a strong passion for complex systems design, DevOps, embedded systems, distributed systems, and robotics. 
     My research interests lie at the intersection of Applied AI, Embedded Systems, and Cloud Computing.
     Proficient in Python (3.x), C++17, and Data Structures & Algorithms, I thrive on solving challenging technical problems at scale. 
