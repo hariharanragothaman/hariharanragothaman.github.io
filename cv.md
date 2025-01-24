@@ -80,7 +80,7 @@ jsarr:
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-## Peer-Reviewing
+## Peer-Reviewing & Judging
 
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
