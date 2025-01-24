@@ -111,7 +111,7 @@ jsarr:
 {% include cv/blogs.html blogs=blogs %}
 {% endfor %}
 
-## Speaking & Press
+## Speaking and Press
 
 {% for press in site.data.press %}
 {% include cv/press.html press=press %}
