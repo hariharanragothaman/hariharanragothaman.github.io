@@ -1,4 +1,16 @@
 ---
+- id: large-language-models
+  authors:
+    - Preetish Kakkar
+    - Srijani Mukherjee
+    - Hariharan Ragothaman
+    - Vishal Mehta
+  title: Leveraging Large-Language Models based on
+  venue: Journal of Electrical Systems, November
+  year: 2024
+  type: Journal
+  pdf: https://eudoxuspress.com/index.php/pub/article/view/1569/1000
+
 - id: differential-rendering
   authors:
     - Preetish Kakkar
