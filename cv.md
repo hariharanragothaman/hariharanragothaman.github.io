@@ -85,7 +85,7 @@ jsarr:
 ## Memberships
 
 {% for member in site.data.membership %}
-{% include cv/venue.html venue=member %}
+{% include cv/membership.html venue=member %}
 {% endfor %}
 
 ## Peer-Reviewing & Judging

@@ -1,0 +1,18 @@
+<!-- cv/venue.html -->
+<div class="cv-left-date">
+    {{ venue.year }}
+</div>
+
+<div>
+    <!-- If you want to link to the institution, add a 'url' field to your YAML and adjust accordingly -->
+    {% if venue.url %}
+    <a href="{{ venue.url }}">{{ venue.institution }}</a>
+    {% else %}
+    {{ venue.institution }}
+    {% endif %}
+
+    <!-- Show the position: -->
+    ({{ venue.position }})
+</div>
+
+<div class="cv-spacer"></div>
