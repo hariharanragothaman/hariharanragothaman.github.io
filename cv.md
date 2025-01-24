@@ -80,6 +80,7 @@ jsarr:
 {% endfor %}
 {:/}
 
+{% comment %}
 
 ## Patents
 
@@ -87,6 +88,9 @@ jsarr:
 {% for pub in patent %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
+
+{% endcomment %}
+
 
 ## Peer-Reviewing & Judging
 
