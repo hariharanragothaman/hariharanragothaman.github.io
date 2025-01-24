@@ -44,7 +44,7 @@
   title: Leveraging Large-Language Models based Machine Learning for Sentiment Analysis and Regional Consumer Insights in Amazon Product Reviews
   venue: Journal of Computational Analysis and Applications
   year: 2024
-  type: Journal
+  type: conference
   pdf: https://eudoxuspress.com/index.php/pub/article/view/1569/1000
 
 - id: differential-rendering
@@ -56,7 +56,7 @@
   title: Physics Based Differentiable Rendering for Inverse Problems and Beyond
   venue: Journal of Electrical Systems, November
   year: 2024
-  type: Journal
+  type: conference
   pdf: https://journal.esrgroups.org/jes/article/view/7210/5288
 
 
@@ -67,7 +67,7 @@
   title: The Evolution of Volumetric Video - A Survey of Smart Transcoding and Compression Approaches
   venue: International Journal of Computer Graphics and Animation (IJCGA), October
   year: 2024
-  type: Journal
+  type: conference
   pdf: https://aircconline.com/ijcga/V14N4/14424ijcga01.pdf
 
 - id: automated-robots
