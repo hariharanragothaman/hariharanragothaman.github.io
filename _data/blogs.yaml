@@ -1,3 +1,10 @@
+- title: Why do we need to index data? | Database Storage and Retrieval
+  month: Aug 10
+  year: 2023
+  publisher:
+    - url: https://medium.com/upsolve-digest/why-do-we-need-to-index-data-database-storage-retrieval-e3bbd499cb75
+      name: Medium - Top Takeaways from on Database Retrieval from - Design of Data Intensive Applications
+
 - title: Template for Backtracking Problems - Part1 (Basics)
   month: Aug 9
   year: 2023
