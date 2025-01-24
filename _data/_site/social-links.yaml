@@ -1,48 +1,48 @@
 - id: home
-  description: "salonipotdar.github.io"
+  description: "hariharanragothaman.github.io"
   color: "#515151"
   class: "fas fa-home icon"
-  url: "https://salonipotdar.github.io"
+  url: "https://hariharanragothaman.github.io"
   on-homepage: false
   cv-group: 1
   on-footer: false
 
 - id: email-personal
-  description: "saloni.potdar@gmail.com"
+  description: "hariharanragothaman@gmail.com"
   color: "#515151"
   class: "fas fa-envelope-open-text icon"
-  url: "mailto:saloni.potdar@gmail.com"
+  url: "mailto:hariharanragothaman@gmail.com"
   on-homepage: true
   cv-group: 1
   on-footer: true
   footer-icon-style: fa-lg fa fa-envelope-open-text footer-icon
 
 - id: email
-  description: "s_potdar@apple.com"
+  description: "hariharan.ragothaman@amd.com"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:s_potdar@apple.com"
+  url: "mailto:hariharan.ragothaman@amd.com"
   on-homepage: true
   cv-group: 1
   on-footer: true
   footer-icon-style: fa-lg fa fa-envelope footer-icon
 
 
-#- id: github
-#  description: "@salonipotdar"
-#  color: "#6e5494"
-#  class: "fab fa-github icon"
-#  url: "https://github.com/salonipotdar"
-#  on-homepage: true
-#  cv-group: 2
-#  on-footer: false
-#  footer-icon-style: fa-lg fab fa-github footer-icon
+- id: github
+  description: "@hariharanragothaman"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/hariharanragothaman"
+  on-homepage: true
+  cv-group: 2
+  on-footer: false
+  footer-icon-style: fa-lg fab fa-github footer-icon
 
 - id: scholar
   description: "Google Scholar"
   color: "#515151"
   class: "fa fa-graduation-cap icon"
-  url: "https://scholar.google.com/citations?hl=en&user=D7EmAyEAAAAJ"
+  url: "https://scholar.google.com/citations?hl=en&user=xed8au4AAAAJ"
   on-homepage: true
   cv-group: 2
   on-footer: true
@@ -69,18 +69,18 @@
   description: "LinkedIn"
   color: "#515151"
   class: "fab fa-linkedin-in icon"
-  url: "https://www.linkedin.com/in/saloni-potdar/"
-  on-homepage: false
+  url: "https://www.linkedin.com/in/hariharanragothaman/"
+  on-homepage: true
   cv-group: 2
   on-footer: true
   footer-icon-style: fa-lg fab fa-linkedin-in footer-icon
 
-- id: twitter
-  description: "@saloni_p"
-  color: "#1da1f2"
-  class: "fab fa-twitter icon"
-  url: https://x.com/saloni_p
-  on-homepage: true
-  cv-group: 2
-  on-footer: true
-  footer-icon-style: fa-lg fab fa-twitter footer-icon
+#- id: twitter
+#  description: "@saloni_p"
+#  color: "#1da1f2"
+#  class: "fab fa-twitter icon"
+#  url: https://x.com/saloni_p
+#  on-homepage: true
+#  cv-group: 2
+#  on-footer: true
+#  footer-icon-style: fa-lg fab fa-twitter footer-icon
