@@ -1,3 +1,39 @@
+- venue: Veterans Appreciations Challenge - 3D Modeling
+  venue-shorthand: Judge
+  years:
+    - year: 2025
+      url: https://www.usaeop.com/
+
+- venue: Integrating Security in Cloud-Native Development - A DevSecOps Approach to Resilient Software Systems, Chapter
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://www.igi-global.com/
+
+- venue: Vellore Institute of Technology - John Hopkins University (VIT-JHU) Health Hackathon
+  venue-shorthand: Judge
+  years:
+    - year: 2025
+      url: https://vitbhopal.ac.in/health-hackathon/
+
+- venue: MIT Reality Hack, Massachusetts Institute of Technology, Boston, USA
+  venue-shorthand: Judge
+  years:
+    - year: 2025
+      url: https://www.mitrealityhack.com/about
+
+- venue: 15th IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE-2025)
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://www.iscaie.org/
+
+- venue: 1st International Conference on Sustainable Computing and Intelligent Systems (ICSCIS 2025)
+  venue-shorthand: Distinguished Reviewer, International Advisory Committee
+  years:
+    - year: 2025
+      url: https://conference.poornima.edu.in/icscis/committee.html
+
 - venue: 21st IEEE International Colloquium on Signal Processing & Its Applications (CSPA-2025)
   venue-shorthand: Reviewer
   years:
@@ -33,6 +69,18 @@
   years:
     - year: 2025
       url: https://aaai.org/conference/aaai/aaai-25/
+
+- venue: 2024 IEEE International Conference on Augmented Reality, Intelligent Systems, and Industrial Automation (ARIIA-2024)
+  venue-shorthand: Chair, International Advisory Committee, Technical Steering Member
+  years:
+    - year: 2025
+      url: https://conference.manipal.edu/ARIIA2024/SessionChair
+
+- venue: International Conference on Multidisciplinary Research (ICMR-2024)
+  venue-shorthand: International Advisory Board Member
+  years:
+    - year: 2024
+      url: https://icmr-iitm.com/
 
 - venue: Journal of Open Source Software
   venue-shorthand: Reviewer
