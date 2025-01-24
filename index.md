@@ -22,7 +22,7 @@ jsarr:
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-        During his time at <a href="https://www.bose.com/explore/music-at-home">Bose Corporation</a> as an Embedded Software Engineer where he developed scalable firmware for the next generation of Wireless Speakers, Headphones and Home theaters.
+        During his time at <a href="https://www.bose.com/explore/music-at-home">Bose Corporation</a> as an Embedded Software Engineer where he developed scalable firmware for the next generation of Wireless Speakers, Headphones and Home theaters. He also made key contributions to Alexa Voice Service (AVS) and Google Voice Assistant (GVA) integrations with Bose ecosystem, creating unique scalable frameworks.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
