@@ -10,29 +10,29 @@
 <!--	{% endfor %}-->
 <!--</div>-->
 
-{% comment %}
-If you only have one year per entry, you can skip the "for" loop.
-But since you have "years:", we'll loop.
-{% endcomment %}
 {% for y in venue.years %}
-<div class="row publication">
-	<div class="col-sm-2 date-col text-right">
-		{% if y.url %}
-		<span class="date">
-        <a href="{{ y.url }}">{{ y.year }}</a>
-      </span>
-		{% else %}
-		<span class="date">{{ y.year }}</span>
-		{% endif %}
-	</div>
-	<div class="col-sm-10">
-		<strong>{{ venue.venue }}</strong>
-		{% if venue.venue-shorthand %}
-		(<b>{{ venue.venue-shorthand }}</b>)
-		{% endif %}
-		{% if venue.venue-at %}
-		at {{ venue.venue-at }}
-		{% endif %}
-	</div>
+
+<!-- Year on the left, same style as mentee.html -->
+<div class="cv-left-date">
+	{% if y.url %}
+	<a href="{{ y.url }}">{{ y.year }}</a>
+	{% else %}
+	{{ y.year }}
+	{% endif %}
 </div>
+
+<!-- Venue information on the right -->
+<div>
+	<strong>{{ venue.venue }}</strong>
+	{% if venue.venue-shorthand %}
+	(<b>{{ venue.venue-shorthand }}</b>)
+	{% endif %}
+	{% if venue.venue-at %}
+	at {{ venue.venue-at }}
+	{% endif %}
+</div>
+
+<!-- Optional spacing if you like how mentees display spacing below each item -->
+<div class="cv-spacer"></div>
+
 {% endfor %}
