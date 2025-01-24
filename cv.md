@@ -70,8 +70,6 @@ jsarr:
 {% endfor %}
 
 
-
-
 ## Publications
 
 {% assign selectedBoolForBibtex = true %}
