@@ -1,16 +1,11 @@
 ---
 - id: robust-task
   authors:
-    - Mo Yu
-    - Xiaoxiao Guo
-    - Jinfeng Yi
-    - Shiyu Chang
-    - Saloni Potdar
-    - Gerald Tesauro
-    - Wang, Haoyu
-    - Bowen Zhou
-  title: Robust Task Clustering for Deep Many-Task Learning
-  venue: arXiv preprint arXiv:1708.07918
-  year: 2017
+    - Hariharan Ragothaman
+    - Harihar M
+    -  S.K Guhananthan
+  title: Establishing Design Routines for Efficient Control of Automated Robots
+  venue: arXiv preprint arXiv:2411.16016
+  year: 2012
   type: conference
-  pdf: https://arxiv.org/pdf/1708.07918
+  pdf: https://arxiv.org/pdf/2411.16016
