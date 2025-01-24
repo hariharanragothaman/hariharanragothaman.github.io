@@ -1,7 +1,7 @@
 - institution: Advanced Micro Devices Inc (AMD)
   location: "Austin, TX, USA"
   position: Software Engineer, Member of Technical Staff
-  group: "Question Answering"
+  group: "Server Systems Software"
   year: "Jan 2025 - Present"
   description: "Manages and leads the applied research team for Knowledge Graph Machine Learning where we build features that powers interactions across Siri, Safari and Spotlight Search. I currently work on Question Answering, Semantic Annotation, Entity Linking and Knowledge Graphs. My team has shipped various features like Knowledge Graph Question Answering, Answer Highlights and Query Understanding models for Siri, Safari and Spotlight search, Related People, Safari Highlights and more recently on Apple Intelligence Summarization."
   type: industry
@@ -9,7 +9,7 @@
 - institution: Bain Capital
   location: "Boston, MA, USA"
   position: Software Engineer, Member of Technical Staff
-  group: "Question Answering"
+  group: "Platform Services - IT, Private & Strategic Investments"
   year: "Dec 2024 - Jan 2025"
   description: "Manages and leads the applied research team for Knowledge Graph Machine Learning where we build features that powers interactions across Siri, Safari and Spotlight Search. I currently work on Question Answering, Semantic Annotation, Entity Linking and Knowledge Graphs. My team has shipped various features like Knowledge Graph Question Answering, Answer Highlights and Query Understanding models for Siri, Safari and Spotlight search, Related People, Safari Highlights and more recently on Apple Intelligence Summarization."
   type: industry
@@ -17,7 +17,7 @@
 - institution: athenahealth
   location: "Boston, MA, USA"
   position: Lead Member of Technical Staff, System Design and Architecture (Manager)
-  group: "Watson Assisant"
+  group: "Foundational Platform Services, Internal Developer Platforms"
   year: "Sep 2020 - Dec 2024"
   description: "Manager and lead for the applied research team that designed and developed algorithms for IBM's conversational AI product - Watson Assistant. I worked on the Natural Language Understanding components of Waston Assistant which includes intent classification, entity recognition, spellcheck and irrelevant detection across multiple languages. The algorithms are designed to be custom-trained for customers globally, deployed at scale with hundreds of thousands of models in production and serves more than 1.9% of the world’s population every month."
   type: industry
