@@ -72,22 +72,22 @@
     - year: 2022
       url: https://2022.emnlp.org/calls/industry_track/
 
-- venue: NAACL Industry Track
+- venue: Association of Health Learning and Inference - Machine Learning for Health Symposium (ML4H 2024)
+  venue-shorthand: Reviewer
+  years:
+    - year: 2024
+      url: https://ahli.cc/ml4h/
+
+- venue: IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS-2024)
   venue-shorthand: Reviewer
   years:
     - year: 2022
-      url: https://2022.naacl.org/calls/industry/
-
-- venue: ACL/NAACL/EMNLP ARR
-  venue-shorthand: Reviewer
-  years:
-    - year: 2021
       url: https://aclrollingreview.org
 
 - venue: 2024 IEEE Silchar Subsection Conference, National Institute of Technology, Agartala
   venue-shorthand: Reviewer
   years:
-    - year: 2021
+    - year: 2024
       url: http://ieeesilcon.org.in/
 
 - venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC-2024)
