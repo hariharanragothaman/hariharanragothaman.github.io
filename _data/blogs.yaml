@@ -1,9 +1,9 @@
-- title: AI Lifecycle for Virtual Assistants
-  month: Apr 23
+- title: How to recursively crawl folders using python?
+  month: Mar 28
   year: 2021
   publisher:
-    - url: https://medium.com/ibm-watson/better-than-before-ai-lifecycle-for-virtual-assistants-df5fdaf32555
-      name: Medium- While deploying virtual assistants it is important to focus on building conversational experiences which work seamlessly.
+    - url: https://medium.com/upsolve-digest/how-to-recursively-crawl-folders-using-python-691250de2f1
+      name: Medium- Python Quick Recipes to crawl folders
 
 - title: Publisher-Subscriber Model Fundae
   month: Sep 21
