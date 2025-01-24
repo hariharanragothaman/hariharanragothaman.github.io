@@ -26,7 +26,7 @@ jsarr:
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-        He received his Masters degree at the College of Engineering, <a href="https://www.northeastern.edu/">Northeastern University</a>, Boston in 2015 and Bachelors degree at <a href="https://www.annauniv.edu/">Anna University</a>, Chennai.
+        He received his Masters degree at the College of Engineering, <a href="https://www.northeastern.edu/">Northeastern University</a>, Boston in 2015 and Bachelors degree at <a href="https://www.annauniv.edu/">Anna University</a>, Chennai in 2013.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
