@@ -11,12 +11,11 @@
     - year: 2024
       url: https://www.apple.com/education/higher-education/scholars/
 
-- venue: Apple Internal AIML Conference
-  venue-shorthand: Knowledge Bases and Search Track Chair
+- venue: iLRN 2025 - 11th International Conference of the Immersive Learning Research Network
+  venue-shorthand: Program Committee, Reviewer
   years:
-    - year: 2022
-    - year: 2023
     - year: 2024
+      url: https://www.immersivelrn.org/ilrn2025/organizing-committee/
 
 - venue: AAAI 2025 Undergraduate Consortium
   venue-shorthand: Reviewer & Mentor
