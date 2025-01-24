@@ -1,6 +1,16 @@
 ---
 - id: large-language-models
   authors:
+    - Hariharan Ragothaman
+    - Saai Krishnan Udayakumar
+  title: Optimizing Service Deployments with NLP based Infrastructure Code generation - An Automation Framework
+  venue: International Conference on Electrical Engineering, Computer and Information Technology (ICEECIT)
+  year: 2024
+  type: conference
+  pdf:
+
+- id: large-language-models
+  authors:
     - Preetish Kakkar
     - Srijani Mukherjee
     - Hariharan Ragothaman
