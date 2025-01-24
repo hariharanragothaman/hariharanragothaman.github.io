@@ -18,7 +18,7 @@ jsarr:
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-       Prior to this, he served as a Lead Software Engineer - System Design and Architecture (Manager) at <a href="https://www.athenahealth.com/">athenahealth</a>  where he designed and developed 'Unified Deployment Pipeline' to integrate multiple tech stacks, enhancing service visibility and improving release and product quality. His work in commercializing the macro-service hybrid cloud (LZ and outpost) with a cumulative cost savings of 1.1 million dollars was a major step towards modernizing the <a href="https://www.athenahealth.com/solutions/athenaone">athenaOne platform</a>. During his time at <a href="https://www.bose.com/explore/music-at-home">Bose Corporation</a> as an Embedded Software Engineer where he developed scalable firmware for the next generation of Wireless Speakers, Headphones and Home theaters.
+       Prior to this, he served as a Lead Software Engineer - System Design and Architecture (Manager) at <a href="https://www.athenahealth.com/">athenahealth</a>  where he designed and developed 'Unified Deployment Pipeline' to integrate multiple tech stacks, enhancing service visibility and improving release and product quality. His work in commercializing the macro-service hybrid cloud (LZ and outpost) was a major step towards modernizing the <a href="https://www.athenahealth.com/solutions/athenaone">athenaOne platform</a>. During his time at <a href="https://www.bose.com/explore/music-at-home">Bose Corporation</a> as an Embedded Software Engineer where he developed scalable firmware for the next generation of Wireless Speakers, Headphones and Home theaters.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
