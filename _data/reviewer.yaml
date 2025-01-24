@@ -54,11 +54,11 @@
     - year: 2023
       url: https://2023.emnlp.org/calls/industry_track/
 
-- venue: ACL Industry Track
+- venue: Joint International Scientific Conference - Information Technologies for Intelligent Decision Support (ITIDS-2024)
   venue-shorthand: Reviewer
   years:
-    - year: 2023
-      url: https://2023.aclweb.org/calls/industry_track/
+    - year: 2024
+      url: https://www.cuchd.in/conference/itids-2024/
 
 - venue: Safe Generative AI Workshop @ NeurIPS 2024
   venue-shorthand: Reviewer
