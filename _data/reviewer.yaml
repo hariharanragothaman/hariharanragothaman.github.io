@@ -18,11 +18,11 @@
     - year: 2023
     - year: 2024
 
-- venue: ACL/NAACL/EMNLP ARR
-  venue-shorthand: Area Chair
+- venue: AAAI 2025 Undergraduate Consortium
+  venue-shorthand: Reviewer & Mentor
   years:
     - year: 2024
-      url: https://aclrollingreview.org
+      url: https://aaai.org/conference/aaai/aaai-25/
 
 - venue: Journal of Open Source Software
   venue-shorthand: Reviewer
