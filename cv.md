@@ -12,7 +12,7 @@ jsarr:
 
 
 <div>
-	I am a Lead Software Engineer with 10 years of industry experience and 2 years of management experience.
+	I am a Lead Software Engineer with 10+ years of industry experience and 2 years of management experience.
 	My research interests lie at the intersection of Applied AI, Embedded Systems and Cloud Computing. 
 </div>
 
