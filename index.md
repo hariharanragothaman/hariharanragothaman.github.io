@@ -52,8 +52,6 @@ jsarr:
 	</div>
 </div>
 
-# Quick Stats
-
 # Timeline
 {% for news in site.data.news %}
 {% include news.html news=news %}
