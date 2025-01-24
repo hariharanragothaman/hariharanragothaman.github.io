@@ -10,4 +10,5 @@
   month: Nov 1
   year: 2017
   publisher:
+    - url:
       name: Improving Code Quality through Continuous Integration Testing, BTC 2017
