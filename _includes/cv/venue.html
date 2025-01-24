@@ -23,9 +23,9 @@
 
 <!-- Venue information on the right -->
 <div>
-	<strong>{{ venue.venue }}</strong>
+	{{ venue.venue }}
 	{% if venue.venue-shorthand %}
-	(<b>{{ venue.venue-shorthand }}</b>)
+	({{ venue.venue-shorthand }})
 	{% endif %}
 	{% if venue.venue-at %}
 	at {{ venue.venue-at }}
