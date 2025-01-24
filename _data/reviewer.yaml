@@ -84,11 +84,11 @@
     - year: 2021
       url: https://aclrollingreview.org
 
-- venue: AAAI
+- venue: 2024 IEEE Silchar Subsection Conference, National Institute of Technology, Agartala
   venue-shorthand: Reviewer
   years:
     - year: 2021
-      url: https://aaai.org/conference/aaai/aaai-21/
+      url: http://ieeesilcon.org.in/
 
 - venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC-2024)
   venue-shorthand: Reviewer
