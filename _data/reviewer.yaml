@@ -90,11 +90,11 @@
     - year: 2021
       url: https://aaai.org/conference/aaai/aaai-21/
 
-- venue: Workshop for Women in Machine Learning 2019
+- venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC-2024)
   venue-shorthand: Reviewer
   years:
-    - year: 2019
-      url: https://wimlworkshop.org/sh_events/wiml-workshop-2019/
+    - year: 2024
+      url: https://enconf.akgec.ac.in/
 
 - venue: CPPNorth - Canadian C++ Conference
   venue-shorthand: Reviewer
