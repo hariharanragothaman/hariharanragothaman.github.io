@@ -10,7 +10,7 @@
   venue: 4th IEEE International Conference on AI in Cybersecurity (ICAIC)
   year: 2025
   type: conference
-  pdf:
+  pdf: https://ieeexplore.ieee.org/xpl/conhome/1847104/all-proceedings
 
 - id: ai-workloads
   authors:
@@ -23,7 +23,7 @@
   venue: 4th IEEE International Conference on AI in Cybersecurity (ICAIC)
   year: 2025
   type: conference
-  pdf:
+  pdf: https://ieeexplore.ieee.org/xpl/conhome/1847104/all-proceedings
 
 - id: nlp-automation
   authors:
