@@ -1,15 +1,10 @@
-- name: Women in AI Awards Finalist - Rising Star
-  description: VentureBeat
-  url: https://venturebeat.com/ai/meet-the-nominees-for-the-2022-venturebeat-women-in-ai-awards/
-  year: 2022
-
-- name: IBM Master Inventor
-  description: Title recognizing sustained and outstanding contributions to IP
-  year: 2022
+- name: DevSecOps and Applied AI Innovator Award at International Conference on Multidisciplinary Research (ICMR-2024)
+  description: Honored for transformative insights and cutting edge research based on the talk - Artificial Intelligence Driven Automation in DevOps, Transforming Security and Resilience
+  year: 2024
 
 - name: Keynote Speaker at ARIAA 2024 - IEEE International Conference on Augemented Reality, Intelligent Systems and Industrial Automation
   description: Honored for impactful presence and significant contribution for the talk - DevSecOps in Action, Building Resilient and Secure Distributed Systems
-  year: 2021
+  year: 2024
 
 - name: athenahealth - Spot Bonus
   description: Awarded in honor of outstanding performance in financial year 2019
@@ -24,5 +19,5 @@
   year: 2015, 2016, 2017, 2018, 2019
 
 - name: Best Paper Award - Certificate of Excellence at Young Scientists' Convention 2012
-  description: Awarded for the paper - "Establishing Design Routines for Effective Control of Automated Robots
+  description: Awarded for the paper - 'Establishing Design Routines for Effective Control of Automated Robots'
   year: 2012
