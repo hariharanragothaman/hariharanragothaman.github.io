@@ -1,4 +1,17 @@
 ---
+- id: differential-rendering
+  authors:
+    - Preetish Kakkar
+    - Srijani Mukherjee
+    - Hariharan Ragothaman
+    - Vishal Mehta
+  title: Physics Based Differentiable Rendering for Inverse Problems and Beyond
+  venue: Journal of Electrical Systems, November
+  year: 2024
+  type: Journal
+  pdf: https://journal.esrgroups.org/jes/article/view/7210/5288
+
+
 - id: volumetric-video
   authors:
     - Preetish Kakkar
