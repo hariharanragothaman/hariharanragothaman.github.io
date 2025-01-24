@@ -36,11 +36,11 @@
     - year: 2024
       url: https://2024.naacl.org/calls/industry/
 
-- venue: WAMLM KDD
-  venue-shorthand: Co-organizer
+- venue: HackRPI 2024, Rensselaer Polytechnic Institute's 11th annual intercollegiate hackathon
+  venue-shorthand: Judge
   years:
     - year: 2024
-      url: https://wamlm-kdd.github.io/wamlm/index.html
+      url: https://hackrpi2024.devpost.com/
 
 - venue: CalHack - World's largest hackathon, University of California, Berkeley
   venue-shorthand: Judge
