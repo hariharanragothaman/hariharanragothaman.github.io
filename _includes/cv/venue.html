@@ -12,18 +12,17 @@
 
 {% for y in venue.years %}
 
-<!-- Year on the left, same style as mentee.html -->
 <div class="cv-left-date">
-	{% if y.url %}
-	<a href="{{ y.url }}">{{ y.year }}</a>
-	{% else %}
 	{{ y.year }}
-	{% endif %}
 </div>
 
-<!-- Venue information on the right -->
 <div>
+	{% if y.url %}
+	<a href="{{ y.url }}">{{ venue.venue }}</a>
+	{% else %}
 	{{ venue.venue }}
+	{% endif %}
+
 	{% if venue.venue-shorthand %}
 	({{ venue.venue-shorthand }})
 	{% endif %}
@@ -32,7 +31,6 @@
 	{% endif %}
 </div>
 
-<!-- Optional spacing if you like how mentees display spacing below each item -->
 <div class="cv-spacer"></div>
 
 {% endfor %}
