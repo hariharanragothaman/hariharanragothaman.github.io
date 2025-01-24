@@ -12,8 +12,9 @@ jsarr:
 
 
 <div>
-	I am a Lead Software Engineer with 10+ years of industry experience and 2 years of management experience.
-	My research interests lie at the intersection of Applied AI, Embedded Systems and Cloud Computing. 
+    I am a Lead Software Engineer with 10+ years of industry experience—including 2 years in management—and a strong passion for complex systems design, DevOps, embedded systems, distributed systems, and robotics. 
+    My research interests lie at the intersection of Applied AI, Embedded Systems, and Cloud Computing.
+    Proficient in Python (3.x), C++17, and Data Structures & Algorithms, I thrive on solving challenging technical problems at scale. I excel at rapidly understanding large codebases, driving robust CI/CD pipelines from scratch, and adapting to new technologies. I’m also well-versed in end-to-end engineering processes—from requirements definition and design estimates to release management and production support and am deeply passionate about problem-solving, product building, and technical leadership.
 </div>
 
 ***
