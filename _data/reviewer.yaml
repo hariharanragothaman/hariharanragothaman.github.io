@@ -177,3 +177,27 @@
   years:
     - year: 2023
       url: https://cppnorth.ca/
+
+- venue: HackRU - 24-hour hackathon at Rutgers University.
+  venue-shorthand: Judge
+  years:
+    - year: 2018
+      url: https://www.hackru.org/
+
+- venue: Boston Hacks
+  venue-shorthand: Judge
+  years:
+    - year: 2018
+      url: https://www.linkedin.com/company/bostonhacks/
+
+- venue: IEEE Business Engineering and Industrial Applications Colloquium (BEIAC-2013)
+  venue-shorthand: Technical Program Chair | Reviewer
+  years:
+    - year: 2013
+      url: https://ieeexplore.ieee.org/xpl/conhome/6554178/proceeding
+
+- venue: International Conference on Electronic Devices, Systems and Applications (ICEDSA-2012)
+  venue-shorthand: Technical Program Chair | Reviewer
+  years:
+    - year: 2012
+      url: https://ieeexplore.ieee.org/xpl/conhome/6504611/proceeding
