@@ -1,4 +1,17 @@
 ---
+- id: ai-workloads
+  authors:
+    - Advait Patel
+    - Pravin Pandey
+    - Hariharan Ragothaman
+    - Ramasankar Molleti
+    - Ajay Tanikonda
+  title: Securing Cloud AI Workloads - Protecting Generative AI Models from Adversarial Attacks
+  venue: 4th IEEE International Conference on AI in Cybersecurity (ICAIC)
+  year: 2025
+  type: conference
+  pdf:
+
 - id: large-language-models
   authors:
     - Hariharan Ragothaman
