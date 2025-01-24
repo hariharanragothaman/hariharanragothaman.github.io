@@ -42,11 +42,11 @@
     - year: 2024
       url: https://wamlm-kdd.github.io/wamlm/index.html
 
-- venue: WAMLM KDD
+- venue: CalHack - World's largest hackathon, University of California, Berkeley
   venue-shorthand: Co-organizer
   years:
-    - year: 2023
-      url: https://wamlm-kdd.github.io/wamlm/2023.html
+    - year: 2024
+      url: https://hackberkeley.org/
 
 - venue: International Conference on Data, Computation and Communication - ICDCC 2025 (VIT Bhopal)
   venue-shorthand: Reviewer
