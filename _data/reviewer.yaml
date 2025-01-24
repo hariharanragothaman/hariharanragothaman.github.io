@@ -1,8 +1,8 @@
-- venue: EMNLP Industry Track
+- venue: IEEE Global Engineering Education Conference (IEEE EDUCON)
   venue-shorthand: Chair
   years:
     - year: 2025
-      url: https://2025.emnlp.org/calls/industry_track/
+      url: https://2025.ieee-educon.org/
 
 - venue: 23rd USENIX Conference on File and Storage Technologies (FAST '25)
   venue-shorthand: Technical Program Committee Chair & Reviewer
