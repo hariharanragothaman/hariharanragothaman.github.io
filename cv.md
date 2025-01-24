@@ -82,8 +82,6 @@ jsarr:
 {% endfor %}
 {:/}
 
-{% comment %}
-
 ## Memberships
 
 {% for member in site.data.membership %}
