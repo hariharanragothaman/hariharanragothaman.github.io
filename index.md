@@ -22,7 +22,7 @@ jsarr:
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-        During his time at <a href="https://www.bose.com/explore/music-at-home">Bose Corporation</a> as an Embedded Software Engineer he developed scalable firmware for the next generation of Wireless Speakers, Headphones and Home theaters. He also made key contributions to <a href="https://www.bose.com/stories/amazon-alexa?srsltid=AfmBOorb0yocFoRa84y9v3-3D9VVaeBhnJb9_x89QpLkOtTJUw0vsTkp">Alexa Voice Service (AVS)</a> and <a href="https://www.bose.com/stories/google-assistant?srsltid=AfmBOoqrzgh8KID8ZA9PqasC4i9jzrE8v_SEJRtAMgn3PVhhGwh3qUE5">Google Voice Assistant (GVA)</a> integrations with Bose ecosystem, creating unique scalable frameworks.
+        During his time at <a href="https://www.bose.com/explore/music-at-home">Bose Corporation</a> as an Embedded Software Engineer, he developed scalable firmware for the next generation of Wireless Speakers, Headphones and Home theaters. He also made key contributions to <a href="https://www.bose.com/stories/amazon-alexa?srsltid=AfmBOorb0yocFoRa84y9v3-3D9VVaeBhnJb9_x89QpLkOtTJUw0vsTkp">Alexa Voice Service (AVS)</a> and <a href="https://www.bose.com/stories/google-assistant?srsltid=AfmBOoqrzgh8KID8ZA9PqasC4i9jzrE8v_SEJRtAMgn3PVhhGwh3qUE5">Google Voice Assistant (GVA)</a> integrations with Bose ecosystem, creating unique scalable frameworks.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
