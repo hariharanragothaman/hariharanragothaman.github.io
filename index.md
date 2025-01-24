@@ -18,7 +18,7 @@ jsarr:
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-       Prior to this, he served as a Lead Software Engineer at athenahealth and worked at Bose Corporation as an Embedded Software Engineer.
+       Prior to this, he served as a Lead Software Engineer - System Design and Architecture (Manager) at athenahealth and worked at Bose Corporation as an Embedded Software Engineer.
 	</div>
 	<div class="intro-left">
         He received his Masters degree at the College of Engineering, Northeastern University in 2015.
