@@ -1,9 +1,9 @@
-<p>DEBUG membership => {{ membership | inspect }}</p>
+<p>DEBUG membership => {{ include.membership | inspect }}</p>
 
 <div class="cv-left-date">
-    {{ membership.year }}
+    {{ include.membership.year }}
 </div>
 <div>
-    {{ membership.institution }} ({{ membership.position }})
+    {{ include.membership.institution }} ({{ include.membership.position }})
 </div>
 <div class="cv-spacer"></div>
