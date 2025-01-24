@@ -26,7 +26,7 @@ jsarr:
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-        He received his Masters degree at <a href="https://www.northeastern.edu/">Northeastern University</a>, Boston and Bachelors degree at <a href="https://www.annauniv.edu/">Anna University</a>, Chennai.
+        He received his Masters degree at <a href="https://www.northeastern.edu/">Northeastern University</a>, Boston and Bachelors degree at <a href="https://www.annauniv.edu/">Anna University</a>, Chennai. He is also Senior Member in IEEE, IEEE-Computer Society, ISA.
 	</div>
 	<div style="height: 1rem"></div>
 </div>
