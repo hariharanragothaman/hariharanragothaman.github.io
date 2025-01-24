@@ -1,19 +1,19 @@
-- institution: AI2030
-  position: Associate Member
+- venue: AI2030
+  venue-shorthand: Associate Member
   year: 2025
 
-- institution: AI Frontier Network
-  position: Early Adopter
+- venue: AI Frontier Network
+  venue-shorthand: Early Adopter
   year: 2025
 
-- institution: ACM, Association for Computing Machinery
-  position: Senior Member
+- venue: ACM, Association for Computing Machinery
+  venue-shorthand: Senior Member
   year: 2024
 
-- institution: ISA, International Society of Automation
-  position: Senior Member
+- venue: ISA, International Society of Automation
+  venue-shorthand: Senior Member
   year: 2024
 
-- institution: IEEE, Institute of Electrical and Electronics Engineers
-  position: Senior Member
+- venue: IEEE, Institute of Electrical and Electronics Engineers
+  venue-shorthand: Senior Member
   year: 2024
