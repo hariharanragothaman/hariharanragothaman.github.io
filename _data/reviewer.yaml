@@ -48,11 +48,11 @@
     - year: 2023
       url: https://wamlm-kdd.github.io/wamlm/2023.html
 
-- venue: EMNLP Industry Track
+- venue: International Conference on Data, Computation and Communication - ICDCC 2025 (VIT Bhopal)
   venue-shorthand: Reviewer
   years:
-    - year: 2023
-      url: https://2023.emnlp.org/calls/industry_track/
+    - year: 2024
+      url: https://vitbhopal.ac.in/icdcc2024/
 
 - venue: Joint International Scientific Conference - Information Technologies for Intelligent Decision Support (ITIDS-2024)
   venue-shorthand: Reviewer
