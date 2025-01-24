@@ -66,11 +66,11 @@
     - year: 2023
       url: https://www2023.thewebconf.org/calls/industry/
 
-- venue: EMNLP Industry Track
+- venue: Machine Learning and Compression Workshop @ NeurIPS 2024
   venue-shorthand: Reviewer
   years:
-    - year: 2022
-      url: https://2022.emnlp.org/calls/industry_track/
+    - year: 2024
+      url: https://neuralcompression.github.io/workshop24
 
 - venue: Association of Health Learning and Inference - Machine Learning for Health Symposium (ML4H 2024)
   venue-shorthand: Reviewer
