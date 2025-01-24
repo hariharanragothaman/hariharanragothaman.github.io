@@ -1,4 +1,4 @@
-- institution: Advanced Micro Devices Inc (AMD).
+- institution: Advanced Micro Devices Inc (AMD)
   location: "Austin, TX, USA"
   position: Software Engineer, Member of Technical Staff
   group: "Question Answering"
@@ -6,7 +6,7 @@
   description: "Manages and leads the applied research team for Knowledge Graph Machine Learning where we build features that powers interactions across Siri, Safari and Spotlight Search. I currently work on Question Answering, Semantic Annotation, Entity Linking and Knowledge Graphs. My team has shipped various features like Knowledge Graph Question Answering, Answer Highlights and Query Understanding models for Siri, Safari and Spotlight search, Related People, Safari Highlights and more recently on Apple Intelligence Summarization."
   type: industry
 
-- institution: Bain Capital.
+- institution: Bain Capital
   location: "Boston, MA, USA"
   position: Software Engineer, Member of Technical Staff
   group: "Question Answering"
@@ -36,4 +36,4 @@
   position: "Research Assistant"
   group: "Center for Communication and Digital Signal Processing"
   year: "Jan 2014 - May 2015"
-  type: academia
+  type: industry
