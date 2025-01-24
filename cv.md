@@ -82,12 +82,15 @@ jsarr:
 
 ## Memberships
 
+{{ site.data.membership | inspect }}
+
 {% for item in site.data.membership %}
-**Debug item:** {{ item | inspect }}
+Debug item: {{ item | inspect }}
+
 {% include cv/membership.html membership=item %}
 {% endfor %}
 
-`
+
 ## Peer-Reviewing & Judging`
 
 {% for venue in site.data.reviewer %}
