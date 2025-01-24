@@ -25,7 +25,7 @@
   type: conference
   pdf:
 
-- id: large-language-models
+- id: nlp-automation
   authors:
     - Hariharan Ragothaman
     - Saai Krishnan Udayakumar
@@ -33,7 +33,7 @@
   venue: 2nd IEEE International Conference on Electrical Engineering, Computer and Information Technology (ICEECIT)
   year: 2024
   type: conference
-  pdf:
+  pdf: https://ieeexplore.ieee.org/xpl/conhome/1848571/all-proceedings
 
 - id: large-language-models
   authors:
