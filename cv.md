@@ -84,15 +84,11 @@ jsarr:
 
 {% comment %}
 
-## Patents
+## Memberships
 
-{% assign patent = site.data.publications | where: 'type', "patent" %}
-{% for pub in patent %}
-{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% for member in site.data.membership %}
+{% include cv/venue.html venue=member %}
 {% endfor %}
-
-{% endcomment %}
-
 
 ## Peer-Reviewing & Judging
 
