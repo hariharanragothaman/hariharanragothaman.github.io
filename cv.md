@@ -18,8 +18,9 @@ jsarr:
     I excel at rapidly understanding large codebases, driving robust CI/CD pipelines from scratch, and adapting to new technologies. 
     I’m also well-versed in end-to-end engineering processes—from requirements definition and design estimates to release management and production support and am deeply passionate about problem-solving, product building, and technical leadership.
 
-    <br><br>
-    Stats: 
+<p>
+    Overall Stats: 
+</p>
 
 </div>
 
