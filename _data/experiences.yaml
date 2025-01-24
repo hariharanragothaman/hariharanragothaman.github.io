@@ -1,31 +1,39 @@
-- institution: Apple Inc.
-  location: "Seattle, WA, USA"
-  position: Senior AI/ML Manager
+- institution: Advanced Micro Devices Inc (AMD).
+  location: "Austin, TX, USA"
+  position: Software Engineer, Member of Technical Staff
   group: "Question Answering"
-  year: "Oct 2022 - Present"
+  year: "Jan 2025 - Present"
   description: "Manages and leads the applied research team for Knowledge Graph Machine Learning where we build features that powers interactions across Siri, Safari and Spotlight Search. I currently work on Question Answering, Semantic Annotation, Entity Linking and Knowledge Graphs. My team has shipped various features like Knowledge Graph Question Answering, Answer Highlights and Query Understanding models for Siri, Safari and Spotlight search, Related People, Safari Highlights and more recently on Apple Intelligence Summarization."
   type: industry
 
-- institution: IBM Watson
-  location: "New York, NY, USA"
-  position: Senior Staff Applied Scientist and Engineering Manager
+- institution: Bain Capital.
+  location: "Boston, MA, USA"
+  position: Software Engineer, Member of Technical Staff
+  group: "Question Answering"
+  year: "Dec 2024 - Jan 2025"
+  description: "Manages and leads the applied research team for Knowledge Graph Machine Learning where we build features that powers interactions across Siri, Safari and Spotlight Search. I currently work on Question Answering, Semantic Annotation, Entity Linking and Knowledge Graphs. My team has shipped various features like Knowledge Graph Question Answering, Answer Highlights and Query Understanding models for Siri, Safari and Spotlight search, Related People, Safari Highlights and more recently on Apple Intelligence Summarization."
+  type: industry
+
+- institution: athenahealth
+  location: "Boston, MA, USA"
+  position: Lead Member of Technical Staff, System Design and Architecture (Manager)
   group: "Watson Assisant"
-  year: "Feb 2015 - Sep 2022"
+  year: "Sep 2020 - Dec 2024"
   description: "Manager and lead for the applied research team that designed and developed algorithms for IBM's conversational AI product - Watson Assistant. I worked on the Natural Language Understanding components of Waston Assistant which includes intent classification, entity recognition, spellcheck and irrelevant detection across multiple languages. The algorithms are designed to be custom-trained for customers globally, deployed at scale with hundreds of thousands of models in production and serves more than 1.9% of the world’s population every month."
   type: industry
 
 
-- institution: IBM Watson
-  location: "Cambridge, MA, USA"
-  position: "Applied Research Intern"
-  group: "Watson Core Algorithms"
-  year: May 2014 - Aug 2014
+- institution: Bose Corporation
+  location: "Framingham, MA, USA"
+  position: "Embedded Software Engineer"
+  group: "Software and Systems Group"
+  year: July 2015 - Sep 2020
   description: "My work revolved around using Distributional Semantics to improve the Watson Question Answering system. We used query expansion, synonym generation and question classification to improve the Watson Question Answering system."
   type: industry
 
-- institution: "Tata Consultancy Services"
-  location: "Pune, India"
-  position: "Software Engineer"
-  group: "Business Intelligence"
-  year: "Dec 2012 - Aug 2013"
-  type: industry
+- institution: "Northeastern University"
+  location: "Boston, MA, USA"
+  position: "Research Assistant"
+  group: "Center for Communication and Digital Signal Processing"
+  year: "Jan 2014 - May 2015"
+  type: academia
