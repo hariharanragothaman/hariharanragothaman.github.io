@@ -60,7 +60,7 @@ jsarr:
 
 <hr class="l-page">
 
-# Publications and Patents
+# Publications
 
 {% assign selectedBoolForBibtex = true %}
 {% assign selected = site.data.publications %}
