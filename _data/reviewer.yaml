@@ -30,11 +30,11 @@
     - year: 2024
       url: https://2024.emnlp.org/calls/industry_track/
 
-- venue: NAACL Industry Track
-  venue-shorthand: Reviewer
+- venue: HackUTD - largest running hackathon in Texas, University of Texas, Dallas
+  venue-shorthand: Judge
   years:
     - year: 2024
-      url: https://2024.naacl.org/calls/industry/
+      url: https://hackutd.co/
 
 - venue: HackRPI 2024, Rensselaer Polytechnic Institute's 11th annual intercollegiate hackathon
   venue-shorthand: Judge
