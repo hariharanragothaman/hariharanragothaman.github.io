@@ -1,4 +1,17 @@
 ---
+- id: automated-security
+  authors:
+    - Advait Patel
+    - Pravin Pandey
+    - Hariharan Ragothaman
+    - Ramasankar Molleti
+    - Diwakar Reddy Peddinti
+  title: Generative AI for Automated Security Operations in Cloud Computing
+  venue: 4th IEEE International Conference on AI in Cybersecurity (ICAIC)
+  year: 2025
+  type: conference
+  pdf:
+
 - id: ai-workloads
   authors:
     - Advait Patel
