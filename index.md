@@ -57,6 +57,58 @@ jsarr:
 
 <hr class="l-page">
 
+.quick-stats {
+display: flex;
+flex-wrap: wrap; /* So they wrap on narrow screens */
+gap: 2rem;       /* Spacing between items */
+justify-content: center;
+}
+
+.stat-item {
+text-align: center;
+min-width: 100px;
+}
+
+.stat-number {
+font-size: 2rem;
+font-weight: 700;
+}
+
+.stat-label {
+font-size: 1rem;
+color: #888; /* example color */
+}
+
+
+<!-- Quick Stats Section -->
+<div id="quick-stats-wrapper" class="l-page">
+  <div class="quick-stats">
+    <div class="stat-item">
+      <div class="stat-number">6</div>
+      <div class="stat-label">US Patents</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">18</div>
+      <div class="stat-label">Trade Secrets</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">15</div>
+      <div class="stat-label">Publications</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">70</div>
+      <div class="stat-label">Manuscripts Reviewed</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">160+</div>
+      <div class="stat-label">Citations</div>
+    </div>
+  </div>
+</div>
+
+<hr class="l-page">
+
+
 # Timeline
 {% for news in site.data.news %}
 {% include news.html news=news %}
