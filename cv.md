@@ -17,6 +17,10 @@ jsarr:
     Proficient in Python (3.x), C++17, and Data Structures & Algorithms, I thrive on solving challenging technical problems at scale. 
     I excel at rapidly understanding large codebases, driving robust CI/CD pipelines from scratch, and adapting to new technologies. 
     I’m also well-versed in end-to-end engineering processes—from requirements definition and design estimates to release management and production support and am deeply passionate about problem-solving, product building, and technical leadership.
+
+    <br><br>
+    Stats: 
+
 </div>
 
 ***
