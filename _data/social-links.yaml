@@ -70,7 +70,7 @@
   color: "#515151"
   class: "fab fa-linkedin-in icon"
   url: "https://www.linkedin.com/in/hariharanragothaman/"
-  on-homepage: false
+  on-homepage: true
   cv-group: 2
   on-footer: true
   footer-icon-style: fa-lg fab fa-linkedin-in footer-icon
