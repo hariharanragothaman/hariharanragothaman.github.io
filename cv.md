@@ -82,9 +82,9 @@ jsarr:
 
 ## Memberships
 
-{% for item in site.data.membership %}
-{% include cv/membership.html membership=item %}
-{% endfor %}
+{{ site.data.membership | inspect }}
+
+
 
 ## Peer-Reviewing & Judging
 
