@@ -87,7 +87,7 @@ jsarr:
 {% endfor %}
 
 
-## Peer-Reviewing & Judging`
+## Peer-Reviewing & Judging
 
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
