@@ -52,7 +52,7 @@ jsarr:
 	</div>
 </div>
 
-# News
+# Timeline
 {% for news in site.data.news %}
 {% include news.html news=news %}
 {% endfor %}
