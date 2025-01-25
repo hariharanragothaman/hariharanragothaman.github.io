@@ -21,7 +21,7 @@ jsarr:
 </p>
 
 <p>
-    Overall Stats: 8 Publications | 52  Manuscripts Reviewed | 4 Hackathons Judged | 7 Invited Talks 
+    Highlights: 8 Publications | 52  Manuscripts Reviewed | 4 Hackathons Judged | 7 Invited Talks 
 </p>
 
 </div>
