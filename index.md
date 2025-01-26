@@ -18,7 +18,7 @@ jsarr:
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-       Prior to this, he served as a Lead Software Engineer - System Design and Architecture (Manager) at <a href="https://www.athenahealth.com/">athenahealth</a>  where he designed and developed 'Unified Deployment Pipeline' to integrate multiple tech stacks, enhancing service visibility and improving release and product quality. His work in commercializing the macro-service hybrid cloud (LZ and outpost) was a major step towards modernizing the <a href="https://www.athenahealth.com/solutions/athenaone">athenaOne platform</a>.
+       Prior to this, he served as a Lead Software Engineer - System Design and Architecture (Manager) at <a href="https://www.athenahealth.com/">athenahealth</a>  where he designed and developed 'Unified Deployment Pipeline' to integrate multiple tech stacks, enhancing service visibility and improving release and product quality. His work in commercializing the macro-service hybrid cloud (Amazon EKS, AWS Local Zones, and AWS Outposts) was a major step towards modernizing the <a href="https://www.athenahealth.com/solutions/athenaone">athenaOne platform</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
