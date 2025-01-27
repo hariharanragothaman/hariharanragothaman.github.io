@@ -51,6 +51,10 @@
   description: <a href="https://aircconline.com/ijcga/V14N4/14424ijcga01.pdf">Paper</a> accepted into International Journal of Computer Graphics and Animation.
 
 - year: 2024
+  year-extra: October
+  description: Paper accepted into 6th International Conference on Communication and Intelligent Systems (ICCIS-2024)
+
+- year: 2024
   year-extra: April
   description: athenahealth's Tech Modernization(Hybrid Cloud) journey gets featured in <a href="https://aws.amazon.com/podcasts/aws-podcast/663-athenahealth-accelerates-hybrid-cloud-journey-with-aws/?podcast-list-wide.sort-by=item.additionalFields.EpisodeNum&podcast-list-wide.sort-order=desc">Official AWS Podcast</a>
 
