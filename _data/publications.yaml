@@ -35,6 +35,19 @@
   type: conference
   pdf: https://ieeexplore.ieee.org/xpl/conhome/1848571/all-proceedings
 
+- id: comparative-analysis-predictive-models
+  authors:
+    - Preetish Kakkar
+    - Hariharan Ragothaman
+    - Amit Bharadwaj
+    - Prashant Singh Rana
+  title: Optimizing Service Deployments with NLP based Infrastructure Code generation - An Automation Framework
+  venue: 6th International Conference on Communication and Intelligent Systems (ICCIS-2024), NIT Bhopal
+  year: 2024
+  type: conference
+  pdf:
+
+
 - id: large-language-models
   authors:
     - Preetish Kakkar
