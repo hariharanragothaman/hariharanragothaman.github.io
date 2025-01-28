@@ -1,4 +1,4 @@
-# For Reviewing - 'month' is when the reviewing activity was done? Is it better when the conference is happening
+# For Reviewing - 'month' is when the reviewing activity was done?
 # For Papers - 'month' is when the conference happened for conferences | For Journals when it was accepted.
 # For other events 'month' is exactly when the event occured.
 
@@ -67,11 +67,11 @@
 
 - year: 2024
   year-extra: December
-  description: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7265642701260242946/">Keynote Speaker</a> at 2nd IEEE International Conference on Augmented Reality, Intelligent Systems and Industrial Automation (ARIAA 2024)
+  description: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7265642701260242946/">Keynote Speaker</a> at ARIAA 2024
 
 - year: 2024
   year-extra: December
-  description: <a href="https://icmr-iitm.com/speakers.html">Keynote Speaker</a> at International Conference on Multidisciplinary Research
+  description: <a href="https://icmr-iitm.com/speakers.html">Keynote Speaker</a> at ICMR 2024
 
 #-------------------------------------------- 2024 November -----------------------------------------------------------
 
