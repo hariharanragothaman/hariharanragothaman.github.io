@@ -103,7 +103,7 @@
 
 - year: 2024
   year-extra: December
-  description: Keynote Speaker at <a href="https://icmr-iitm.com/speakers.html">ICMR 2024</a>
+  description: Keynote Speaker and Technical Steering Member at <a href="https://icmr-iitm.com/speakers.html">ICMR 2024</a>
 
 - year: 2024
   year-extra: November
@@ -118,6 +118,15 @@
 
 - year: 2024
   year-extra: November
+  description: Reviewer at <a href="https://vitbhopal.ac.in/icdcc2024/">ICDCC 2024</a>
+
+- year: 2024
+  year-extra: November
+  description: Reviewer at <a href="https://www.cuchd.in/conference/itids-2024//">ITIDS 2024</a>
+
+
+- year: 2024
+  year-extra: November
   description: Judge at <a href="https://hackutd.co/">HackUTD</a> and <a href="https://www.hackrpi.com/">HackRPI</a>
 
 - year: 2024
@@ -127,7 +136,6 @@
 - year: 2024
   year-extra: November
   description: Reviewer at <a href="https://neuralcompression.github.io/workshop24">Machine Learning and Compression Workshop @ NeurIPS 2024</a>
-
 
 - year: 2024
   year-extra: November
