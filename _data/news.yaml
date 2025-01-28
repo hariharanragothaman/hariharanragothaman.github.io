@@ -1,3 +1,8 @@
+# For Reviewing - 'month' is when the reviewing activity was done.
+# For Papers - 'month' is when the conference happened for conferences | For Journals when it was accepted.
+# For other events 'month' is exactly when the event occured.
+
+#-------------------------------------------- February --------------------------------------------------------------------
 - year: 2025
   year-extra: February
   description: Invited Technical Speaker at <a href="https://www.conf42.com/Python_2025_Hariharan_Ragothaman_cpp_python_workloads">Conf42 Python 2025</a>
@@ -18,13 +23,31 @@
   year-extra: February
   description: <a href="https://ieeexplore.ieee.org/xpl/conhome/1847104/all-proceedings">Paper</a> accepted into 4th IEEE International Conference on AI in Cybersecurity (ICAIC)
 
+#-------------------------------------------- January --------------------------------------------------------------------
+
+- year: 2025
+  year-extra: January
+  description: Judge (North America Team) <a href="https://www.sscs-arduino-contest.com/our-team">IEEE Solid State Circuit Society (SSCS) Arduino Contest</a>
+
+- year: 2025
+  year-extra: January
+  description: Judge <a href="https://www.computer.org/publications/tech-news/events/computings-top-30-early-career-professionals-2024">Early Career Professionals Awards Program, IEEE Computer Society</a>
+
 - year: 2025
   year-extra: January
   description: Invited Technical Speaker at <a href="https://www.conf42.com/DevOps_2025_Hariharan_Ragothaman_deployments_governance_securely">Conf42 DevOps 2025</a>
 
 - year: 2025
   year-extra: January
+  description: Judge <a href="https://www.mitrealityhack.com/about">MIT Reality Hack, Massachusetts Institute of Technology, Boston, USA</a>
+
+- year: 2025
+  year-extra: January
   description: Joined Advanced Micro Devices, Inc as Software Engineer
+
+#-------------------------------------------- 2025 --------------------------------------------------------------------
+
+#-------------------------------------------- 2024 December -----------------------------------------------------------
 
 - year: 2024
   year-extra: December
@@ -42,6 +65,8 @@
   year-extra: December
   description: <a href="https://icmr-iitm.com/speakers.html">Keynote Speaker</a> at International Conference on Multidisciplinary Research
 
+#-------------------------------------------- 2024 November -----------------------------------------------------------
+
 - year: 2024
   year-extra: November
   description: <a href="https://ieeexplore.ieee.org/xpl/conhome/1848571/all-proceedings">Paper</a> accepted into 2nd IEEE International Conference on Electrical Engineering, Computer and Information Technology (ICEECIT)
@@ -50,6 +75,7 @@
   year-extra: November
   description: Reviewer for <a href="http://ieeesilcon.org.in/">2024 IEEE Silchar Subsection Conference, National Institute of Technology, Agartala</a>
 
+#-------------------------------------------- 2024 October -----------------------------------------------------------
 - year: 2024
   year-extra: October
   description: <a href="https://journal.esrgroups.org/jes/article/view/7210/5288">Paper</a> accepted into Journal of Electrical Systems
@@ -70,9 +96,15 @@
   year-extra: October
   description: <a href="https://scrs.in/conference/iccis2024">Paper</a> accepted into 6th International Conference on Communication and Intelligent Systems (ICCIS-2024)
 
+
 - year: 2024
   year-extra: April
   description: athenahealth's Tech Modernization(Hybrid Cloud) journey gets featured in <a href="https://aws.amazon.com/podcasts/aws-podcast/663-athenahealth-accelerates-hybrid-cloud-journey-with-aws/?podcast-list-wide.sort-by=item.additionalFields.EpisodeNum&podcast-list-wide.sort-order=desc">Official AWS Podcast</a>
+
+
+#-------------------------------------------- 2023 --------------------------------------------------------------------
+
+
 
 - year: 2023
   year-extra: March
@@ -82,13 +114,22 @@
   year-extra: February
   description: Promoted to Lead Member of Technical Staff (Manager) at athenahealth
 
+#-------------------------------------------- 2022 --------------------------------------------------------------------
+
 - year: 2022
   year-extra: November
   description: Awarded the athenahealth Foundational Service Hall of Fame - Impact Award
 
+#-------------------------------------------- 2021 --------------------------------------------------------------------
+
+#-------------------------------------------- 2020 --------------------------------------------------------------------
+
+
 - year: 2020
   year-extra: September
   description: Joined athenahealth as Senior Member of Technical Staff to drive the tech modernization journey
+
+#-------------------------------------------- 2019 --------------------------------------------------------------------
 
 - year: 2019
   year-extra: December
@@ -102,9 +143,16 @@
   year-extra: January
   description: Bose Corporation Exceptional Award for technical contributions and business impact.
 
+#-------------------------------------------- 2018 --------------------------------------------------------------------
+
+#-------------------------------------------- 2017 --------------------------------------------------------------------
+
+
 - year: 2017
   year-extra: November
   description: Invited Technical Speaker at  Bose Technical Conference (BTC-2017)
+
+#-------------------------------------------- 2016 --------------------------------------------------------------------
 
 - year: 2016
   year-extra: November
@@ -114,13 +162,24 @@
   year-extra: April
   description: Bose SoundTouch 10 announced. Featured at <a href="https://www.cnet.com/reviews/bose-soundtouch-10-review/">CNET</a>
 
+#-------------------------------------------- 2015 --------------------------------------------------------------------
+
+
 - year: 2015
   year-extra: July
   description: Joined Bose Corporation as Software Engineer to build the next generation of wireless speakers, headphones and frames
 
+#-------------------------------------------- 2014 --------------------------------------------------------------------
+
+
 - year: 2014
   year-extra: January
   description: Joined as Research Assistant at Center for Communication and Digital Signal Processing, Northeastern University
+
+#-------------------------------------------- 2013 --------------------------------------------------------------------
+
+
+#-------------------------------------------- 2012 --------------------------------------------------------------------
 
 - year: 2012
   year-extra: March
@@ -137,6 +196,8 @@
 - year: 2012
   year-extra: March
   description: Technical Program Chair for <a href="https://ieeexplore.ieee.org/xpl/conhome/6504611/proceeding">International Conference on Electronic Devices, Systems and Applications (ICEDSA-2012))</a>
+
+#-------------------------------------------- 2011 --------------------------------------------------------------------
 
 - year: 2011
   year-extra: December
