@@ -63,6 +63,10 @@
   description: athenahealth's Tech Modernization(Hybrid Cloud) journey gets featured in <a href="https://aws.amazon.com/podcasts/aws-podcast/663-athenahealth-accelerates-hybrid-cloud-journey-with-aws/?podcast-list-wide.sort-by=item.additionalFields.EpisodeNum&podcast-list-wide.sort-order=desc">Official AWS Podcast</a>
 
 - year: 2023
+  year-extra: March
+  description: Reviewer for <a href="https://cppnorth.ca/">CPPNorth - Canadian C++ Conference</a>
+
+- year: 2023
   year-extra: February
   description: Promoted to Lead Member of Technical Staff (Manager) at athenahealth
 
