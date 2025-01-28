@@ -81,6 +81,15 @@
 
 - year: 2024
   year-extra: November
+  description: Reviewer for <a href="https://safegenaiworkshop.github.io/">Safe Generative AI Workshop @ NeurIPS 2024</a>
+
+- year: 2024
+  year-extra: November
+  description: Reviewer for <a href="https://neuralcompression.github.io/workshop24">Machine Learning and Compression Workshop @ NeurIPS 2024</a>
+
+
+- year: 2024
+  year-extra: November
   description: Reviewer for <a href="http://ieeesilcon.org.in/">2024 IEEE Silchar Subsection Conference, National Institute of Technology, Agartala</a>
 
 #-------------------------------------------- 2024 October -----------------------------------------------------------
@@ -107,6 +116,9 @@
 - year: 2024
   year-extra: October
   description: <a href="https://scrs.in/conference/iccis2024">Paper</a> accepted into 6th International Conference on Communication and Intelligent Systems (ICCIS-2024)
+
+#-------------------------------------------- 2024 --------------------------------------------------------------------
+
 
 
 - year: 2024
