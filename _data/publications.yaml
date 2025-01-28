@@ -25,6 +25,19 @@
   type: conference
   pdf: https://ieeexplore.ieee.org/xpl/conhome/1847104/all-proceedings
 
+- id: android-development
+  authors:
+    - Diwakar Reddy Peddinti
+    - Ramasankar Molleti
+    - Ravi Laudya
+    - Hariharan Ragothaman
+    - Advait Patel
+  title: Trends and Metrics in Android Malware Development - A Comprehensive Analysis
+  venue: International Conference on Intelligent Control, Computing and Communication (IC3-2025)
+  year: 2025
+  type: conference
+  pdf:
+
 - id: nlp-automation
   authors:
     - Hariharan Ragothaman
