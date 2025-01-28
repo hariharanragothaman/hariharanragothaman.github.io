@@ -1,8 +1,8 @@
-# For Reviewing - 'month' is when the reviewing activity was done.
+# For Reviewing - 'month' is when the reviewing activity was done? Is it better when the conference is happening
 # For Papers - 'month' is when the conference happened for conferences | For Journals when it was accepted.
 # For other events 'month' is exactly when the event occured.
 
-#-------------------------------------------- February --------------------------------------------------------------------
+#-------------------------------------------- February ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
   year-extra: February
   description: Invited Technical Speaker at <a href="https://www.conf42.com/Python_2025_Hariharan_Ragothaman_cpp_python_workloads">Conf42 Python 2025</a>
@@ -40,6 +40,10 @@
 - year: 2025
   year-extra: January
   description: Reviewer at <a href="https://www.igi-global.com/">IGI Global Publishing</a>
+
+- year: 2025
+  year-extra: January
+  description: Judge for <a href="https://www.usaeop.com/">Army Educational Outreach Program (AEOP)</a>
 
 - year: 2025
   year-extra: January
