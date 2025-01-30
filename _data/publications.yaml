@@ -60,7 +60,6 @@
   type: conference
   pdf:
 
-
 - id: large-language-models
   authors:
     - Preetish Kakkar
@@ -84,7 +83,6 @@
   year: 2024
   type: conference
   pdf: https://journal.esrgroups.org/jes/article/view/7210/5288
-
 
 - id: volumetric-video
   authors:
