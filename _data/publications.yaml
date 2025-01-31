@@ -72,6 +72,17 @@
   type: conference
   pdf: https://eudoxuspress.com/index.php/pub/article/view/1569/1000
 
+- id: 3d-aware-image
+  authors:
+    - Preetish Kakkar
+    - Hariharan Ragothaman
+    - Ananya Ghosh Chowdhury
+  title: Enhancing 3D-Aware Image Generation - A Novel Framework for Disentangling Shape and Appearance
+  venue: Nano Technology Perceptions
+  year: 2024
+  type: conference
+  pdf: https://nano-ntp.com/index.php/nano/article/view/3148/2370
+
 - id: differential-rendering
   authors:
     - Preetish Kakkar
@@ -93,6 +104,16 @@
   year: 2024
   type: conference
   pdf: https://aircconline.com/ijcga/V14N4/14424ijcga01.pdf
+
+- id: agricultural-robots
+  authors:
+    - Hariharan Ragothaman
+    - Harihar M
+  title: Design of Multi-faceted Robot for Agricultural Purposes
+  venue: Young Scientists' Convention
+  year: 2012
+  type: conference
+  pdf:
 
 - id: automated-robots
   authors:
