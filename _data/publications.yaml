@@ -10,7 +10,7 @@
   venue: 4th IEEE International Conference on AI in Cybersecurity (ICAIC), Houston, Texas
   year: 2025
   type: conference
-  pdf: https://ieeexplore.ieee.org/xpl/conhome/1847104/all-proceedings
+  pdf: https://ieeexplore.ieee.org/abstract/document/10849302
 
 - id: ai-workloads
   authors:
@@ -23,7 +23,7 @@
   venue: 4th IEEE International Conference on AI in Cybersecurity (ICAIC), Houston, Texas
   year: 2025
   type: conference
-  pdf: https://ieeexplore.ieee.org/xpl/conhome/1847104/all-proceedings
+  pdf: https://ieeexplore.ieee.org/abstract/document/10848877
 
 - id: android-development
   authors:
@@ -46,7 +46,7 @@
   venue: 2nd IEEE International Conference on Electrical Engineering, Computer and Information Technology (ICEECIT), Jember, Indonesia
   year: 2024
   type: conference
-  pdf: https://ieeexplore.ieee.org/xpl/conhome/1848571/all-proceedings
+  pdf: https://ieeexplore.ieee.org/document/10859822
 
 - id: comparative-analysis-predictive-models
   authors:
