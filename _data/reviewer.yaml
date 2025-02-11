@@ -1,3 +1,27 @@
+- venue: Medical Imaging with Deep Learning (MIDL-2025)
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://2025.midl.io/
+
+- venue: 7th IEEE Symposium on Computers & Informatics
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://www.isci.asia/
+
+- venue: 7th IEEE Symposium on Computers & Informatics
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://www.isci.asia/
+
+- venue: International Joint Conference on Neural Networks (IJCNN)
+  venue-shorthand: Reviewer
+  years:
+    - year: 2025
+      url: https://2025.ijcnn.org/
+
 - venue: IEEE Solid State Circuit Society (SSCS) Arduino Contest
   venue-shorthand: Judge, North American Team
   years:
