@@ -350,6 +350,10 @@
 
 - year: 2012
   year-extra: March
+  description: Paper accepted into Young Scientist's Convention.
+
+- year: 2012
+  year-extra: March
   description: Technical Program Chair for <a href="https://ieeexplore.ieee.org/xpl/conhome/6504611/proceeding">International Conference on Electronic Devices, Systems and Applications (ICEDSA-2012))</a>
 
 #-------------------------------------------- 2011 --------------------------------------------------------------------
@@ -365,3 +369,7 @@
 - year: 2011
   year-extra: May
   description: Joined <a href="https://www.simplelabs.co.in/">Simple Labs</a> for Project Internship Program
+
+- year: 2011
+  year-extra: March
+  description:  Paper accepted into Young Scientist's Convention.
