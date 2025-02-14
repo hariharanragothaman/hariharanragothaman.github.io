@@ -127,3 +127,13 @@
   award: Best Paper Award
   type: conference
   pdf: https://arxiv.org/pdf/2411.16016
+
+- id: humanoids
+  authors:
+    - Hariharan Ragothaman
+    - Sneha Prasad
+  title: Efficient Memory Usage in Humanoids
+  venue: Young Scientists' Convention
+  year: 2011
+  type: conference
+  pdf:
