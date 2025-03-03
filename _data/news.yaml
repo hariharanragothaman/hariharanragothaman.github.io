@@ -10,6 +10,11 @@
 
 - year: 2025
   year-extra: August
+  description: Reviewer at <a href="https://kdd2025.kdd.org/">31st SIGKDD Conference on Knowledge Discovery and Data Mining</a>
+
+
+- year: 2025
+  year-extra: August
   description: Reviewer at <a href="https://www.isci.asia/">ISCI 2025</a>
 
 #-------------------------------------------- July  ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,6 +29,10 @@
 #-------------------------------------------- June  ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
   year-extra: May
+  description: Reviewer and Program Chair at <a href="https://chil.ahli.cc/">CHIL 2025</a>
+
+- year: 2025
+  year-extra: May
   description: Reviewer and Program Chair at <a href="https://www.immersivelrn.org/ilrn2025/organizing-committee/">iLRN 2025</a>
 
 #-------------------------------------------- May  ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -35,13 +44,32 @@
 
 - year: 2025
   year-extra: April
+  description: Reviewer at <a href="https://fm-wild-community.github.io/">ICLR 2025 FM-Wild Workshop</a>
+
+- year: 2025
+  year-extra: April
+  description: Reviewer at <a href="https://delta-workshop.github.io/#home">ICLR 2025 DeLTa Workshop</a>
+
+- year: 2025
+  year-extra: April
   description: Technical Program Chair & Reviewer at <a href="https://2025.ieee-educon.org/">IEEE EDUCON 2025</a>
 
 #-------------------------------------------- March  ------------------------------------------------------------------------------------------------------------------------------------------------------
+- year: 2025
+  year-extra: March
+  description: Paper accepted at <a href="https://icict.org/">ICICT 2025</a>
+
+- year: 2025
+  year-extra: March
+  description: Paper accepted at <a href="https://icict.org/">ICICT 2025</a>
 
 - year: 2025
   year-extra: March
   description: Program Committee Member & Mentor at <a href="https://aaai.org/conference/aaai/aaai-25/aaai-25-uc-call/">AAAI-UC 2025</a>
+
+- year: 2025
+  year-extra: March
+  description: Paper accepted at <a href="https://conferences.ieee.org/conferences_events/conferences/conferencedetails/65575">ICDSAAI 2025</a>
 
 - year: 2025
   year-extra: March
@@ -72,6 +100,18 @@
 - year: 2025
   year-extra: February
   description: Technical Speaker at <a href="https://www.conf42.com/Python_2025_Hariharan_Ragothaman_cpp_python_workloads">Conf42 Python 2025</a>
+
+- year: 2025
+  year-extra: February
+  description: Paper accepted at <a href="https://ce2ct.gehu.ac.in/"> CE2CT-2025</a>
+
+- year: 2025
+  year-extra: February
+  description: Paper accepted at <a href="https://ce2ct.gehu.ac.in/"> CE2CT-2025</a>
+
+- year: 2025
+  year-extra: February
+  description: Paper accepted at <a href="https://ce2ct.gehu.ac.in/"> CE2CT-2025</a>
 
 - year: 2025
   year-extra: February
@@ -117,7 +157,7 @@
 
 - year: 2025
   year-extra: January
-  description: Judge at <a href="https://www.computer.org/publications/tech-news/events/computings-top-30-early-career-professionals-2024">Early Career Professionals Awards Program</a> IEEE Computer Society
+  description: Judge at <a href="https://www.computer.org/publications/tech-news/insider-membership-news/top-30-early-career-professionals-2024-honorees"> IEEE Computer Society - Early Career Professionals Awards</a>
 
 - year: 2025
   year-extra: January
