@@ -1,5 +1,5 @@
 ---
-- id: anomaly-detection
+- id: dynamic-secret-injection
   authors:
     - Advait Patel
     - Ravi Laudya
@@ -12,7 +12,7 @@
   type: conference
   pdf: https://www.icict.org/
 
-- id: anomaly-detection
+- id: gen-ai-cyber-security
   authors:
     - Advait Patel
     - Ravi Laudya
@@ -73,6 +73,17 @@
     - Advait Patel
   title: Trends and Metrics in Android Malware Development - A Comprehensive Analysis
   venue: IEEE International Conference on Intelligent Control, Computing and Communication (IC3), UP, India
+  year: 2025
+  type: conference
+  pdf:
+
+- id: anomaly-detection-enterprise-access-logs
+  authors:
+    - Hariharan Ragothaman
+    - Saai Krishnan Udayakumar
+    - Kumar Manas Khare
+  title: A Novel Dataset and a Hybrid Ensemble Approach for Anomaly Detection in Enterprise-Access-Logs for Anomaly Detection
+  venue: 3rd IEEE International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI), Chennai, India
   year: 2025
   type: conference
   pdf:
