@@ -9,6 +9,7 @@
   venue: 1st IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT and Microelectronics, Dayton, Ohio
   year: 2025
   type: conference
+  pdf: https://satcconf.com/
 
 - id: automated-security
   authors:
