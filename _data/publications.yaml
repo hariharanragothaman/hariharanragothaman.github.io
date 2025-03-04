@@ -2,11 +2,37 @@
 - id: anomaly-detection
   authors:
     - Advait Patel
-    - RAvi Laudya
+    - Ravi Laudya
+    - Hariharan Ragothaman
+    - Pravin Pandey
+    - Saai Krishnan Udayakumar
+    - Adi Sheth
+  title: Dynamic Secret Injection for Microservices in the Cloud
+  venue: The 8th International Conference on Information and Computer Technologies (ICICT), Hilo, Hawaii
+  type: conference
+  pdf: https://www.icict.org/
+
+- id: anomaly-detection
+  authors:
+    - Advait Patel
+    - Ravi Laudya
+    - Hariharan Ragothaman
+    - Pravin Pandey
+    - Saai Krishnan Udayakumar
+    - Adi Sheth
+  title: Leveraging Generative AI for Proactive Cybersecurity Threat Detection in Cloud Environments
+  venue: The 8th International Conference on Information and Computer Technologies (ICICT), Hilo, Hawaii
+  type: conference
+  pdf: https://www.icict.org/
+
+- id: anomaly-detection
+  authors:
+    - Advait Patel
+    - Ravi Laudya
     - Hariharan Ragothaman
     - Pravin Pandey
   title: Applying Artificial Intelligence to DevOps - A Study on AI-Driven Anomaly Detection and Predictive Maintenance in Cloud Environments
-  venue: 1st IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT and Microelectronics, Dayton, Ohio
+  venue: 1st IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT and Microelectronics (SaTC) , Dayton, Ohio
   year: 2025
   type: conference
   pdf: https://satcconf.com/
