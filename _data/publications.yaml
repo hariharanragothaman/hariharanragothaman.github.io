@@ -1,4 +1,15 @@
 ---
+- id: anomaly-detection
+  authors:
+    - Advait Patel
+    - RAvi Laudya
+    - Hariharan Ragothaman
+    - Pravin Pandey
+  title: Applying Artificial Intelligence to DevOps - A Study on AI-Driven Anomaly Detection and Predictive Maintenance in Cloud Environments
+  venue: 1st IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT and Microelectronics, Dayton, Ohio
+  year: 2025
+  type: conference
+
 - id: automated-security
   authors:
     - Advait Patel
