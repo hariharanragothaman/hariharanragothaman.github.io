@@ -3,6 +3,11 @@
 # For other events 'month' is exactly when the event occured.
 
 #-------------------------------------------- August  ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- year: 2025
+  year-extra: August
+  description: Reviewer at <a href="https://2025.ijcai.org/">IJCAI 2025</a>
+
 - year: 2025
   year-extra: August
   description: Reviewer at <a href="https://kdd2025.kdd.org/">31st SIGKDD Conference on Knowledge Discovery and Data Mining</a>
@@ -87,6 +92,11 @@
 
 
 #-------------------------------------------- February ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- year: 2025
+  year-extra: February
+  description: Appointed as Ambassador at <a href="https://www.peoplecert.org/browse-certifications/devops"> DevOps Institute</a>
+
 - year: 2025
   year-extra: February
   description: Paper accepted at <a href="https://satcconf.com/"> SaTC-2025</a>
