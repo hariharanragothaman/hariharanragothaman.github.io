@@ -66,19 +66,6 @@
   type: conference
   pdf: https://ieeexplore.ieee.org/abstract/document/10848877
 
-- id: android-development
-  authors:
-    - Diwakar Reddy Peddinti
-    - Ramasankar Molleti
-    - Ravi Laudya
-    - Hariharan Ragothaman
-    - Advait Patel
-  title: Trends and Metrics in Android Malware Development - A Comprehensive Analysis
-  venue: IEEE International Conference on Intelligent Control, Computing and Communication (IC3), UP, India
-  year: 2025
-  type: conference
-  pdf:
-
 - id: anomaly-detection-enterprise-access-logs
   authors:
     - Hariharan Ragothaman
