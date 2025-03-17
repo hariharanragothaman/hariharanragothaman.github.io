@@ -67,6 +67,10 @@
 #-------------------------------------------- March  ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
   year-extra: March
+  description: Awarded  <a href="https://cybersecurity-excellence-awards.com/candidates/hariharan-ragothaman-2025/">Cybersecurity Professional of the Year Award</a>
+
+- year: 2025
+  year-extra: March
   description: Invited Technical Speaker at <a href="https://basconf.org/">Boston Application Security Conference (BASC 2025), OWASP Foundation</a>
 
 - year: 2025
