@@ -2,6 +2,21 @@
 - id: dynamic-secret-injection
   authors:
     - Advait Patel
+    - Hariharan Ragothaman
+    - Milavkumar Shah
+    - Adit Sheth
+    - Charit Upadhyay
+    - Pravin Pandey
+    - Saai Krishnan Udayakumar
+  title: AI-Powered Encryption Techniques - Safeguarding Cloud Infrastructure
+  venue: IEEE Conference on Artificial Intelligence, CAI 2025, SantaClara, California, USA
+  year: 2025
+  type: conference
+  pdf: https://www.icict.org/
+
+- id: dynamic-secret-injection
+  authors:
+    - Advait Patel
     - Ravi Laudya
     - Hariharan Ragothaman
     - Pravin Pandey
