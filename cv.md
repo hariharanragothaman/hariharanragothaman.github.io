@@ -118,13 +118,14 @@ jsarr:
 {% include cv/university_lectures.html talk=title %}
 {% endfor %}
 
-## Synergistic Activities 
+
+## Scientific & Technical Leadership
 
 {% for venue in site.data.pc %}
 {% include cv/pc.html venue=venue %}
 {% endfor %}
 
-## Scientific & Technical Leadership
+## Synergistic Activities
 
 ## Memberships
 
