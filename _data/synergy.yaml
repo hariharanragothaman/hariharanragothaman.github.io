@@ -5,13 +5,6 @@
     - year: 2025
       url: https://www.sscs-arduino-contest.com/our-team
 
-- venue: MIT Reality Hack, Massachusetts Institute of Technology, Boston, USA
-  venue-shorthand:
-  position: Judge
-  years:
-    - year: 2025
-      url: https://www.mitrealityhack.com/about
-
 - venue: Early Career Professionals Awards Program, IEEE Computer Society
   venue-shorthand:
   position: Judge
@@ -33,6 +26,13 @@
     - year: 2024, 2025
       url: https://www.usaeop.com/
 
+- venue: MIT Reality Hack, Massachusetts Institute of Technology, Boston, USA
+  venue-shorthand:
+  position: Judge
+  years:
+    - year: 2025
+      url: https://www.mitrealityhack.com/about
+
 - venue: Vellore Institute of Technology - John Hopkins University Health Hackathon
   venue-shorthand: VIT-JHU
   position: Judge
@@ -41,21 +41,21 @@
       url: https://vitbhopal.ac.in/health-hackathon/
 
 - venue: Rose Hacks 2025
-  venue-shorthand: Judge
+  venue-shorthand:
+  position: Judge
+  years:
+    - year: 2024
+      url: https://rosehack2025.devpost.com/
+
+- venue: Largest running hackathon in Texas, University of Texas, Dallas
+  venue-shorthand: HackUTD
   position: Judge
   years:
     - year: 2024
       url: https://hackutd.co/
 
-- venue: HackUTD - largest running hackathon in Texas, University of Texas, Dallas
-  venue-shorthand: Judge
-  position: Judge
-  years:
-    - year: 2024
-      url: https://hackutd.co/
-
-- venue: HackRPI 2024, Rensselaer Polytechnic Institute's 11th annual intercollegiate hackathon
-  venue-shorthand: Judge
+- venue: Rensselaer Polytechnic Institute's 11th annual intercollegiate hackathon
+  venue-shorthand: HackRPI 2024
   position: Judge
   years:
     - year: 2024
@@ -68,15 +68,29 @@
     - year: 2024
       url: https://hackberkeley.org/
 
-- venue: HackRU - 24-hour hackathon at Rutgers University.
-  venue-shorthand: Judge
+- venue: 24-hour hackathon at Rutgers University.
+  venue-shorthand: HackRU-2019
   position: Judge
   years:
-    - year: 2018
+    - year: 2019
       url: https://www.hackru.org/
 
+- venue: GT Hacks
+  venue-shorthand:
+  position: Judge
+  years:
+    - year: 2019
+      url: https://hackgt2019.devpost.com/
+
+- venue: BU Hacks
+  venue-shorthand:
+  position: Judge
+  years:
+    - year: 2019
+      url:
+
 - venue: Boston Hacks
-  venue-shorthand: Judge
+  venue-shorthand:
   position: Judge
   years:
     - year: 2018
