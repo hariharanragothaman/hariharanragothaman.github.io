@@ -102,7 +102,7 @@ jsarr:
 {% include cv/university_lectures.html talk=title %}
 {% endfor %}
 
-## Mentees and Interns
+## Mentees & Interns
 
 {::nomarkdown}
 {% for mentee in site.data.mentoring %}
@@ -110,7 +110,7 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Selected Honors and Awards
+## Selected Honors & Awards
 
 {% for award in site.data.awards %}
 {% include cv/award.html award=award %}
