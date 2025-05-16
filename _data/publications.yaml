@@ -93,6 +93,21 @@
   type: conference
   pdf: https://ieeexplore.ieee.org/document/10939491
 
+
+- id: predictive-analysis
+  authors:
+    - Jagbir Singh
+    - Hariharan Ragothaman
+    - Arjun Jaggi
+    - Ogabek Solaev
+    - Urazbayeva Dilbar
+    - Akanksha Chauhan
+  title: Personalized Healthcare Monitoring Through AR Wearables and Predictive Analytics Algorithms
+  venue: 1st IEEE International Conference on Advances in Computer Science, Electrical, Electronics, and Communication Technologies (CE2CT)
+  year: 2025
+  type: conference
+  pdf: https://ieeexplore.ieee.org/document/10939627
+
 - id: automated-security
   authors:
     - Advait Patel
