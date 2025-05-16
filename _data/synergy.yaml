@@ -19,6 +19,13 @@
     - year: 2025
       url: https://www.computer.org/publications/tech-news/events/computings-top-30-early-career-professionals-2024
 
+- venue: International Society of Automation (ISA) Scholarship Committee
+  venue-shorthand:
+  position: Judge, Reviewer
+  years:
+    - year: 2025
+      url: https://www.isa.org/membership/students/scholarships
+
 - venue: Veterans Appreciations Challenge, Army Educational Outreach Program - 3D Modeling
   venue-shorthand: AEOP
   position: Judge
@@ -32,3 +39,45 @@
   years:
     - year: 2025
       url: https://vitbhopal.ac.in/health-hackathon/
+
+- venue: Rose Hacks 2025
+  venue-shorthand: Judge
+  position: Judge
+  years:
+    - year: 2024
+      url: https://hackutd.co/
+
+- venue: HackUTD - largest running hackathon in Texas, University of Texas, Dallas
+  venue-shorthand: Judge
+  position: Judge
+  years:
+    - year: 2024
+      url: https://hackutd.co/
+
+- venue: HackRPI 2024, Rensselaer Polytechnic Institute's 11th annual intercollegiate hackathon
+  venue-shorthand: Judge
+  position: Judge
+  years:
+    - year: 2024
+      url: https://hackrpi2024.devpost.com/
+
+- venue: CalHack - World's largest hackathon, University of California, Berkeley
+  venue-shorthand: Judge
+  position: Judge
+  years:
+    - year: 2024
+      url: https://hackberkeley.org/
+
+- venue: HackRU - 24-hour hackathon at Rutgers University.
+  venue-shorthand: Judge
+  position: Judge
+  years:
+    - year: 2018
+      url: https://www.hackru.org/
+
+- venue: Boston Hacks
+  venue-shorthand: Judge
+  position: Judge
+  years:
+    - year: 2018
+      url: https://www.linkedin.com/company/bostonhacks/

@@ -53,24 +53,6 @@
     - year: 2024
       url: https://joss.theoj.org/
 
-- venue: HackUTD - largest running hackathon in Texas, University of Texas, Dallas
-  venue-shorthand: Judge
-  years:
-    - year: 2024
-      url: https://hackutd.co/
-
-- venue: HackRPI 2024, Rensselaer Polytechnic Institute's 11th annual intercollegiate hackathon
-  venue-shorthand: Judge
-  years:
-    - year: 2024
-      url: https://hackrpi2024.devpost.com/
-
-- venue: CalHack - World's largest hackathon, University of California, Berkeley
-  venue-shorthand: Judge
-  years:
-    - year: 2024
-      url: https://hackberkeley.org/
-
 - venue: International Conference on Data, Computation and Communication - ICDCC 2025 (VIT Bhopal)
   venue-shorthand: Reviewer
   years:
@@ -118,15 +100,3 @@
   years:
     - year: 2024
       url: https://enconf.akgec.ac.in/
-
-- venue: HackRU - 24-hour hackathon at Rutgers University.
-  venue-shorthand: Judge
-  years:
-    - year: 2018
-      url: https://www.hackru.org/
-
-- venue: Boston Hacks
-  venue-shorthand: Judge
-  years:
-    - year: 2018
-      url: https://www.linkedin.com/company/bostonhacks/
