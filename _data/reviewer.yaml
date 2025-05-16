@@ -70,8 +70,8 @@
     - year: 2025
       url: https://www.bmu.edu.in/eis-conference2025/index.html
 
-- venue: Machine Learning and Compression Workshop @ NeurIPS 2024
-  venue-shorthand:
+- venue: Machine Learning and Compression Workshop
+  venue-shorthand: NeurIPS 2024
   years:
     - year: 2024
       url: https://neuralcompression.github.io/workshop24
@@ -106,8 +106,8 @@
     - year: 2024
       url: https://www.cuchd.in/conference/itids-2024/
 
-- venue: Safe Generative AI Workshop @ NeurIPS 2024
-  venue-shorthand:
+- venue: Safe Generative AI Workshop
+  venue-shorthand: NeurIPS 2024
   years:
     - year: 2024
       url: https://safegenaiworkshop.github.io/
