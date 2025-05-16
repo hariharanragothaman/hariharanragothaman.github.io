@@ -12,12 +12,20 @@
     - year: 2025
       url: https://2025.ieee-educon.org/
 
+
 - venue: 23rd USENIX Conference on File and Storage Technologies, SantaClara, USA
   venue-shorthand: FAST 2025
   position: Technical Program Committee Member
   years:
     - year: 2025
       url: https://fast25ae.usenix.hotcrp.com/users/pc
+
+- venue: 11th International Conference of the Immersive Learning Research Network
+  venue-shorthand: iLRN 2025
+  position: Technical Program Committee Member
+  years:
+    - year: 2025
+      url: https://www.immersivelrn.org/ilrn2025/organizing-committee/
 
 - venue: IEEE International Conference on Augmented Reality, Intelligent Systems, and Industrial Automation
   venue-shorthand: ARIIA-2024
