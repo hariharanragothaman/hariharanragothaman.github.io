@@ -75,21 +75,21 @@
     - year: 2019
       url: https://www.hackru.org/
 
-- venue: GT Hacks
+- venue: GT Hacks at Georgia Institute of Technology (GaTech)
   venue-shorthand:
   position: Judge
   years:
     - year: 2019
       url: https://hackgt2019.devpost.com/
 
-- venue: BU Hacks
+- venue: BU Hacks at Boston University
   venue-shorthand:
   position: Judge
   years:
     - year: 2019
       url:
 
-- venue: Boston Hacks
+- venue: Boston Hacks at Harvard University
   venue-shorthand:
   position: Judge
   years:
