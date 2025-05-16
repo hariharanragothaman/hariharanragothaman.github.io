@@ -4,6 +4,12 @@
     - year: 2025
       url: https://www.sciencedirect.com/journal/softwarex
 
+- venue: International Joint Conference on Neural Networks
+  venue-shorthand: IJCNN
+  years:
+    - year: 2025
+      url: https://2025.ijcnn.org/
+
 - venue: Medical Imaging with Deep Learning
   venue-shorthand: MIDL-2025
   years:
@@ -15,12 +21,6 @@
   years:
     - year: 2025
       url: https://www.isci.asia/
-
-- venue: International Joint Conference on Neural Networks
-  venue-shorthand: IJCNN
-  years:
-    - year: 2025
-      url: https://2025.ijcnn.org/
 
 - venue: IEEE Solid State Circuit Society (SSCS) Arduino Contest
   venue-shorthand: Judge, North American Team
