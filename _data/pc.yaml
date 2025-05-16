@@ -32,3 +32,10 @@
   years:
     - year: 2023
       url: https://cppnorth.ca/
+
+- venue: International Conference on Electronic Devices, Systems and Applications
+  venue-shorthand: ICEDSA-2012
+  position: Technical Program Committee
+  years:
+    - year: 2012
+      url: https://ieeexplore.ieee.org/xpl/conhome/6504611/proceeding
