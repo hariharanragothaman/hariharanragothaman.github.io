@@ -4,3 +4,10 @@
   years:
     - year: 2025
       url: https://2025.ieee-educon.org/
+
+- venue: CPPNorth - Canadian C++ Conference
+  venue-shorthand:
+  position: Program Committee Member
+  years:
+    - year: 2025
+      url: https://cppnorth.ca/
