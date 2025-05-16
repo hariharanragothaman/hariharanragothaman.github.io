@@ -5,13 +5,19 @@
     - year: 2025
       url: https://ieeeusa.org/committees/rdpc/
 
+- venue: 39th Annual AAAI Conference on Artificial Intelligence
+  venue-shorthand: AAAI-UC 2025
+  position: Mentor
+  years:
+    - year: 2025
+      url: https://aaai.org/conference/aaai/aaai-25/
+
 - venue: IEEE Global Engineering Education Conference, London, UK
   venue-shorthand: IEEE EDUCON 2025
   position: Technical Program Committee Member
   years:
     - year: 2025
       url: https://2025.ieee-educon.org/
-
 
 - venue: 23rd USENIX Conference on File and Storage Technologies, SantaClara, USA
   venue-shorthand: FAST 2025
