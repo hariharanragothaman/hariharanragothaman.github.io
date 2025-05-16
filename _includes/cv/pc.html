@@ -1,10 +1,11 @@
 {% comment %}
-Renders one venue entry with optional position and shorthand.
-Expects a `venue` variable (hash) with keys:
-- venue            (string, required)
-- position         (string, optional)
-- venue‑shorthand  (string, optional)
-- years            (list of {year, url?})
+Displays a service/committee role:
+“Position – Venue, Location” with year in left column.
+Expects `venue` hash keys:
+venue            (string, required)
+position         (string, optional)
+venue-shorthand  (string, optional)
+years            (list of {year, url?})
 {% endcomment %}
 
 {% for y in venue.years %}
@@ -13,18 +14,21 @@ Expects a `venue` variable (hash) with keys:
 </div>
 
 <div>
+    {#‑‑ Position first, if present ‑‑#}
+    {% if venue.position %}
+    <span class="cv-role">{{ venue.position }}</span> – 
+    {% endif %}
+
+    {#‑‑ Venue name, linked if URL provided ‑‑#}
     {% if y.url %}
     <a href="{{ y.url }}">{{ venue.venue }}</a>
     {% else %}
     {{ venue.venue }}
     {% endif %}
 
-    {% if venue.position %}
-    &nbsp;–&nbsp;<span class="cv-role">{{ venue.position }}</span>
-    {% endif %}
-
-    {% if venue.venue-shorthand %}
-    &nbsp;(<b>{{ venue.venue-shorthand }}</b>)
+    {#‑‑ Optional shorthand in parentheses ‑‑#}
+    {% if venue['venue-shorthand'] %}
+    ( <b>{{ venue['venue-shorthand'] }}</b> )
     {% endif %}
 </div>
 
