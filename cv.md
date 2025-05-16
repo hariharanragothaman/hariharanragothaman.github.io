@@ -63,13 +63,6 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Selected Honors and Awards
-
-{% for award in site.data.awards %}
-{% include cv/award.html award=award %}
-{% endfor %}
-
-
 ## Publications
 
 {% assign selectedBoolForBibtex = true %}
@@ -117,6 +110,13 @@ jsarr:
 {% include cv/mentee.html mentee=mentee %}
 {% endfor %}
 {:/}
+
+## Selected Honors and Awards
+
+{% for award in site.data.awards %}
+{% include cv/award.html award=award %}
+{% endfor %}
+
 
 ## Memberships
 
