@@ -31,14 +31,14 @@
   year: 2025
   publisher:
     - url: https://www.conf42.com/Python_2025_Hariharan_Ragothaman_cpp_python_workloads
-      name: conf42 Python 2025 - Online
+      name: conf42 Python 2025
 
 - title: Securely Unifying Deployments in an Organization for Increased Governance | Scaling Track
   month: Jan 23
   year: 2025
   publisher:
     - url: https://www.conf42.com/DevOps_2025_Hariharan_Ragothaman_deployments_governance_securely
-      name: conf42 DevOps 2025 - Online
+      name: conf42 DevOps 2025
 
 - title: DevSecOps in Action - Building Resilient and Secure Distributed Systems| AI Track
   month: Dec 21
