@@ -10,6 +10,12 @@
     - year: 2025
       url: https://2025.ijcai.org/
 
+- venue: 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, Canada
+  venue-shorthand: SIGKDD-2025
+  years:
+    - year: 2025
+      url: https://kdd2025.kdd.org/
+
 - venue: International Joint Conference on Neural Networks, Rome
   venue-shorthand: IJCNN-2025
   years:
@@ -21,6 +27,12 @@
   years:
     - year: 2025
       url: https://2025.midl.io/
+
+- venue: 18th International Conference of Students of Systematic Musicology, Oslo, Norway
+  venue-shorthand: SysMus-2025
+  years:
+    - year: 2025
+      url: https://www.uio.no/ritmo/english/news-and-events/events/conferences/2025/sysmus25/
 
 - venue: 7th IEEE Symposium on Computers & Informatics, Kaula Lumpur, Malaysia
   venue-shorthand: ISCI-2025
