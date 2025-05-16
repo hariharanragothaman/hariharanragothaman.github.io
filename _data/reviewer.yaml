@@ -22,81 +22,81 @@
     - year: 2025
       url: https://www.isci.asia/
 
-- venue: Integrating Security in Cloud-Native Development - A DevSecOps Approach to Resilient Software Systems, IGI Global Publishing
-  venue-shorthand: Reviewer
+- venue: Integrating Security in Cloud-Native Development - A DevSecOps Approach to Resilient Software Systems
+  venue-shorthand: IGI Global Publishing
   years:
     - year: 2025
       url: https://www.igi-global.com/
 
-- venue: 15th IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE-2025)
-  venue-shorthand: Reviewer
+- venue: 15th IEEE Symposium on Computer Applications & Industrial Electronics
+  venue-shorthand: ISCAIE-2025
   years:
     - year: 2025
       url: https://www.iscaie.org/
 
 
-- venue: Entrepreneurship, Innovation and Society Conference, EIS 3.0
-  venue-shorthand: Reviewer
+- venue: Entrepreneurship, Innovation and Society Conference
+  venue-shorthand:  EIS 3.0
   years:
     - year: 2025
       url: https://www.bmu.edu.in/eis-conference2025/index.html
 
-- venue: 21st IEEE International Colloquium on Signal Processing & Its Applications (CSPA-2025)
-  venue-shorthand: Reviewer
+- venue: 21st IEEE International Colloquium on Signal Processing & Its Applications
+  venue-shorthand: CSPA-2025
   years:
     - year: 2025
       url: https://sites.google.com/view/asprg-cspa/home
 
 - venue: Journal of Open Source Software
-  venue-shorthand: Reviewer
+  venue-shorthand: JOSS
   years:
     - year: 2024
       url: https://joss.theoj.org/
 
-- venue: International Conference on Data, Computation and Communication - ICDCC 2025 (VIT Bhopal)
-  venue-shorthand: Reviewer
+- venue: International Conference on Data, Computation and Communication, VIT Bhopal
+  venue-shorthand: ICDCC 2024
   years:
     - year: 2024
       url: https://vitbhopal.ac.in/icdcc2024/
 
-- venue: Joint International Scientific Conference - Information Technologies for Intelligent Decision Support (ITIDS-2024)
-  venue-shorthand: Reviewer
+- venue: Joint International Scientific Conference - Information Technologies for Intelligent Decision Support
+  venue-shorthand: ITIDS-2024
   years:
     - year: 2024
       url: https://www.cuchd.in/conference/itids-2024/
 
 - venue: Safe Generative AI Workshop @ NeurIPS 2024
-  venue-shorthand: Reviewer
+  venue-shorthand:
   years:
     - year: 2024
       url: https://safegenaiworkshop.github.io/
 
 - venue: Machine Learning and Compression Workshop @ NeurIPS 2024
-  venue-shorthand: Reviewer
+  venue-shorthand:
   years:
     - year: 2024
       url: https://neuralcompression.github.io/workshop24
 
-- venue: Association of Health Learning and Inference - Machine Learning for Health Symposium (ML4H 2024)
-  venue-shorthand: Reviewer
+- venue: Association of Health Learning and Inference - Machine Learning for Health Symposium
+  venue-shorthand: ML4H 2024
   years:
     - year: 2024
       url: https://ahli.cc/ml4h/
 
-- venue: IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS-2024)
-  venue-shorthand: Reviewer
+- venue: IEEE International Conference on Advanced Networks and Telecommunications Systems
+  venue-shorthand: ANTS-2024
   years:
     - year: 2024
       url: https://ants2024.ieee-ants.org/
 
 - venue: 2024 IEEE Silchar Subsection Conference, National Institute of Technology, Agartala
-  venue-shorthand: Reviewer
+  venue-shorthand:
   years:
     - year: 2024
       url: http://ieeesilcon.org.in/
 
-- venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC-2024)
-  venue-shorthand: Reviewer
+- venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing
+  venue-shorthand: AKGEC-2024
   years:
     - year: 2024
       url: https://enconf.akgec.ac.in/
