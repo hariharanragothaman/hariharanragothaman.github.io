@@ -119,13 +119,13 @@ jsarr:
 {% endfor %}
 
 
+## Synergistic Activities
+
 ## Scientific & Technical Leadership
 
 {% for venue in site.data.pc %}
 {% include cv/pc.html venue=venue %}
 {% endfor %}
-
-## Synergistic Activities
 
 ## Memberships
 
