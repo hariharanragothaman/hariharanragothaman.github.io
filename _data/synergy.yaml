@@ -5,6 +5,13 @@
     - year: 2025
   url: https://www.sscs-arduino-contest.com/our-team
 
+- venue: MIT Reality Hack, Massachusetts Institute of Technology, Boston, USA
+  venue-shorthand:
+  position: Judge
+  years:
+    - year: 2025
+      url: https://www.mitrealityhack.com/about
+
 - venue: Early Career Professionals Awards Program, IEEE Computer Society
   venue-shorthand:
   position: Judge
@@ -18,3 +25,10 @@
   years:
     - year: 2024, 2025
   url: https://www.usaeop.com/
+
+- venue: Vellore Institute of Technology - John Hopkins University Health Hackathon
+  venue-shorthand: VIT-JHU
+  position: Judge
+  years:
+    - year: 2025
+      url: https://vitbhopal.ac.in/health-hackathon/

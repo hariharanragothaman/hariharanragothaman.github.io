@@ -28,18 +28,6 @@
     - year: 2025
       url: https://www.igi-global.com/
 
-- venue: Vellore Institute of Technology - John Hopkins University (VIT-JHU) Health Hackathon
-  venue-shorthand: Judge
-  years:
-    - year: 2025
-      url: https://vitbhopal.ac.in/health-hackathon/
-
-- venue: MIT Reality Hack, Massachusetts Institute of Technology, Boston, USA
-  venue-shorthand: Judge
-  years:
-    - year: 2025
-      url: https://www.mitrealityhack.com/about
-
 - venue: 15th IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE-2025)
   venue-shorthand: Reviewer
   years:
