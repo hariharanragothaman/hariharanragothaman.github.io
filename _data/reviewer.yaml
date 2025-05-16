@@ -16,6 +16,18 @@
     - year: 2025
       url: https://kdd2025.kdd.org/
 
+- venue: IEEE 8th International Conference on Electrical, Control and Computer Engineering, Malaysia
+  venue-shorthand: InECCE 2025
+  years:
+    - year: 2025
+      url: https://ftkee.umpsa.edu.my/index.php/en/news-event/ieee-8th-international-conference-on-electrical-control-and-computer-engineering-inecce-2025
+
+- venue: 7th IEEE Symposium on Computers & Informatics, Kaula Lumpur, Malaysia
+  venue-shorthand: ISCI-2025
+  years:
+    - year: 2025
+      url: https://www.isci.asia/
+
 - venue: International Joint Conference on Neural Networks, Rome
   venue-shorthand: IJCNN-2025
   years:
@@ -33,12 +45,6 @@
   years:
     - year: 2025
       url: https://www.uio.no/ritmo/english/news-and-events/events/conferences/2025/sysmus25/
-
-- venue: 7th IEEE Symposium on Computers & Informatics, Kaula Lumpur, Malaysia
-  venue-shorthand: ISCI-2025
-  years:
-    - year: 2025
-      url: https://www.isci.asia/
 
 - venue: Integrating Security in Cloud-Native Development - A DevSecOps Approach to Resilient Software Systems
   venue-shorthand: IGI Global Publishing
