@@ -1,13 +1,17 @@
-- institution: American Corporate Partners - Veterans Mentorship Program
-  position: Mentor / Advisor
-  year: 2025
-
 - institution: IICSPA, International Institute of Computer Science Professional Association
   position: Fellow
   year: 2025
 
 - institution: SCRS, Soft Computing Research Society
   position: Fellow
+  year: 2025
+
+- institution: DevOps Institute
+  position: Ambassador
+  year: 2025
+
+- institution: American Corporate Partners - Veterans Mentorship Program
+  position: Mentor / Advisor
   year: 2025
 
 - institution: AI2030
@@ -18,9 +22,9 @@
   position: Early Adopter
   year: 2025
 
-- institution: ACM, Association for Computing Machinery
-  position: Member
-  year: 2024
+- institution: AAAI, Association of Advancement of Artificial Intelligence
+  position:  Member
+  year: 2025
 
 - institution: ISA, International Society of Automation
   position: Senior Member
@@ -28,4 +32,8 @@
 
 - institution: IEEE, Institute of Electrical and Electronics Engineers
   position: Senior Member
+  year: 2024
+
+- institution: ACM, Association for Computing Machinery
+  position: Member
   year: 2024
