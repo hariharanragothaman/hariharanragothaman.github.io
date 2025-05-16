@@ -63,6 +63,16 @@ jsarr:
 {% endfor %}
 {:/}
 
+## Research Experience
+
+{::nomarkdown}
+{% for experience in site.data.experiences %}
+{% if experience.type == "research"%}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %}
+{:/}
+
 ## Publications
 
 {% assign selectedBoolForBibtex = true %}
