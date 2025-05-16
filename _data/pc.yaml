@@ -19,6 +19,13 @@
     - year: 2025
       url: https://fast25ae.usenix.hotcrp.com/users/pc
 
+- venue: International Conference on Multidisciplinary Research
+  venue-shorthand: ICMR-2024
+  position: International Advisory Board Member
+  years:
+    - year: 2024
+      url: https://icmr-iitm.com/
+
 - venue: Canadian C++ Conference
   venue-shorthand: CPPNorth
   position: Technical Program Committee Member
