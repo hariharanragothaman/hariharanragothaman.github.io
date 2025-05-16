@@ -51,7 +51,11 @@
   year-extra: May
   description: Reviewer and Program Chair at <a href="https://www.immersivelrn.org/ilrn2025/organizing-committee/">iLRN 2025</a>
 
-#-------------------------------------------- May  ------------------------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------------------- May  -------------------------------------------------------------------------------------------------------------------------------------------------------
+- year: 2025
+  year-extra: March
+  description: Paper accepted at <a href="https://cai.ieee.org/2025/">CAI 2025</a>
+
 - year: 2025
   year-extra: May
   description: Invited Technical Speaker at AMD DevOps World 2025
