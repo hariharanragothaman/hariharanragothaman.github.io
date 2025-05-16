@@ -1,5 +1,5 @@
-- venue: IEEE Solid State Circuit Society (SSCS) Arduino Contest
-  venue-shorthand:
+- venue: IEEE Solid State Circuit Society Arduino Contest
+  venue-shorthand: SSCS
   position: Judge, North American Team
   years:
     - year: 2025
