@@ -7,10 +7,17 @@
 
 - venue: IEEE EDUCON 2025, London, UK
   venue-shorthand:
-  position: Technical Program Chair
+  position: Technical Program Committee Member
   years:
     - year: 2025
       url: https://2025.ieee-educon.org/
+
+- venue: 23rd USENIX Conference on File and Storage Technologies
+  venue-shorthand: FAST 2025
+  position: Technical Program Committee Member
+  years:
+    - year: 2025
+      url: https://www.usenix.org/conference/fast25
 
 - venue: CPPNorth - Canadian C++ Conference
   venue-shorthand:
