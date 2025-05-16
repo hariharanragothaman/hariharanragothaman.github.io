@@ -96,7 +96,13 @@ jsarr:
 {% include cv/blogs.html blogs=blogs %}
 {% endfor %}
 
-## Peer-Reviewing & Judging
+## Speaking & Press
+
+{% for press in site.data.press %}
+{% include cv/press.html press=press %}
+{% endfor %}
+
+## Reviewer Activities
 
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
@@ -113,6 +119,16 @@ jsarr:
 {% include cv/university_lectures.html talk=title %}
 {% endfor %}
 
+## Synergistic Activities 
+
+## Scientific & Technical Leadership
+
+## Memberships
+
+{% for item in site.data.membership %}
+{% include cv/membership.html membership=item %}
+{% endfor %}
+
 ## Mentees & Interns
 
 {::nomarkdown}
@@ -120,15 +136,3 @@ jsarr:
 {% include cv/mentee.html mentee=mentee %}
 {% endfor %}
 {:/}
-
-## Speaking & Press
-
-{% for press in site.data.press %}
-{% include cv/press.html press=press %}
-{% endfor %}
-
-## Memberships
-
-{% for item in site.data.membership %}
-{% include cv/membership.html membership=item %}
-{% endfor %}
