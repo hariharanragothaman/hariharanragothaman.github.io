@@ -79,6 +79,20 @@
   type: conference
   pdf: https://ieeexplore.ieee.org/document/10939650
 
+- id: real-time-visualization
+  authors:
+    - Jagbir Singh
+    - Jagadeesh Vedula
+    - Hariharan Ragothaman
+    - Shojonov Muzaffar
+    - Urazbaeva Yulduz
+    - Satendra Pratap Singh
+  title: Augmented Reality for Enhanced Surgical Precision - A Framework for Real-Time Visualization and Navigation
+  venue: 1st IEEE International Conference on Advances in Computer Science, Electrical, Electronics, and Communication Technologies (CE2CT)
+  year: 2025
+  type: conference
+  pdf: https://ieeexplore.ieee.org/document/10939491
+
 - id: automated-security
   authors:
     - Advait Patel
