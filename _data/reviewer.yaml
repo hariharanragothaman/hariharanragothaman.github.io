@@ -94,12 +94,6 @@
     - year: 2025
       url: https://aaai.org/conference/aaai/aaai-25/
 
-- venue: 2024 IEEE International Conference on Augmented Reality, Intelligent Systems, and Industrial Automation (ARIIA-2024)
-  venue-shorthand: Chair, International Advisory Committee, Technical Steering Member
-  years:
-    - year: 2024
-      url: https://conference.manipal.edu/ARIIA2024/SessionChair
-
 
 - venue: Journal of Open Source Software
   venue-shorthand: Reviewer
