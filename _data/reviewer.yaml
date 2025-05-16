@@ -82,18 +82,6 @@
     - year: 2025
       url: https://vjec.ac.in/icmracc/committees/technical-committee/
 
-- venue: IEEE Global Engineering Education Conference (IEEE EDUCON)
-  venue-shorthand: Chair
-  years:
-    - year: 2025
-      url: https://2025.ieee-educon.org/
-
-- venue: 23rd USENIX Conference on File and Storage Technologies (FAST '25)
-  venue-shorthand: Technical Program Committee Chair & Reviewer
-  years:
-    - year: 2025
-      url: https://fast25ae.usenix.hotcrp.com/users/pc
-
 - venue: iLRN 2025 - 11th International Conference of the Immersive Learning Research Network
   venue-shorthand: Program Committee, Reviewer
   years:
@@ -213,9 +201,3 @@
   years:
     - year: 2013
       url: https://ieeexplore.ieee.org/xpl/conhome/6554178/proceeding
-
-- venue: International Conference on Electronic Devices, Systems and Applications (ICEDSA-2012)
-  venue-shorthand: Technical Program Chair | Reviewer
-  years:
-    - year: 2012
-      url: https://ieeexplore.ieee.org/xpl/conhome/6504611/proceeding
