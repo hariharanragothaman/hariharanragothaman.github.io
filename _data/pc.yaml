@@ -1,3 +1,10 @@
+- venue: IEEE USA Government Relations R&D Policy Committee
+  venue-shorthand:
+  position: Program Committee Member
+  years:
+    - year: 2025
+      url: https://ieeeusa.org/committees/rdpc/
+
 - venue: IEEE EDUCON 2025, London, UK
   venue-shorthand:
   position: Technical Program Chair
