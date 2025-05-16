@@ -96,7 +96,7 @@ jsarr:
 {% include cv/blogs.html blogs=blogs %}
 {% endfor %}
 
-## Speaking & Press
+## Invited Technical Talks, Keynotes & Press
 
 {% for press in site.data.press %}
 {% include cv/press.html press=press %}
