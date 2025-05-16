@@ -6,7 +6,7 @@
       url: https://ieeeusa.org/committees/rdpc/
 
 - venue: IEEE Global Engineering Education Conference, London, UK
-  venue-shorthand: IEEE EDUCON
+  venue-shorthand: IEEE EDUCON 2025
   position: Technical Program Committee Member
   years:
     - year: 2025
@@ -19,8 +19,8 @@
     - year: 2025
       url: https://www.usenix.org/conference/fast25
 
-- venue: CPPNorth - Canadian C++ Conference
-  venue-shorthand:
+- venue: Canadian C++ Conference
+  venue-shorthand: CPPNorth 2025
   position: Program Committee Member
   years:
     - year: 2025
