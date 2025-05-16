@@ -1,3 +1,11 @@
+- name: Best Presenter Award - 8th IEEE International Conference on Information & Computer Technologies, Hawaii
+  description: Awarded for the paper - 'Leveraging Generative AI for Proactive Cybersecurity Threat Detection in Cloud Environments'
+  year: 2025
+
+- name: Best Paper Award - 4th IEEE International Conference on AI in Cyber Security, Texas
+  description: Awarded for the paper - 'Securing Cloud AI Workloads - Protecting Generative AI Models from Adversarial Attacks'
+  year: 2025
+
 - name: AI-Driven DevSecOps Excellence Award
   description: Honored for transformative insights and cutting edge research based on the talk - Artificial Intelligence Driven Automation in DevOps, Transforming Security and Resilience at at International Conference on Multidisciplinary Research (ICMR-2024)
   year: 2024
