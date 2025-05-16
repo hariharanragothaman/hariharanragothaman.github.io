@@ -77,12 +77,6 @@
     - year: 2025
       url: https://sites.google.com/view/asprg-cspa/home
 
-- venue: IEEE 1st International Conference on Materials, Robotics & Automation, Computer, and Control (ICMRACC-2025)
-  venue-shorthand: Reviewer
-  years:
-    - year: 2025
-      url: https://vjec.ac.in/icmracc/committees/technical-committee/
-
 - venue: Journal of Open Source Software
   venue-shorthand: Reviewer
   years:

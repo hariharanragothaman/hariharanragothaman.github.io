@@ -33,6 +33,13 @@
     - year: 2025
       url: https://www.immersivelrn.org/ilrn2025/organizing-committee/
 
+- venue: IEEE 1st International Conference on Materials, Robotics & Automation, Computer, and Control
+  venue-shorthand: ICMRACC-2025
+  position: International Technical Committee
+  years:
+    - year: 2025
+      url: https://vjec.ac.in/icmracc/committees/technical-committee/
+
 - venue: IEEE International Conference on Augmented Reality, Intelligent Systems, and Industrial Automation
   venue-shorthand: ARIIA-2024
   position: Session Chair, International Advisory Committee, Technical Steering Member
