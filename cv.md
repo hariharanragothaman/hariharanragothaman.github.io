@@ -118,7 +118,6 @@ jsarr:
 {% include cv/university_lectures.html talk=title %}
 {% endfor %}
 
-
 ## Synergistic Activities
 
 {% for venue in site.data.synergy %}
