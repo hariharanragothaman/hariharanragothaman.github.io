@@ -73,7 +73,7 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Technical Blogs
+## Technical Blogs & Thought Leadership
 
 {% for blogs in site.data.blogs %}
 {% include cv/blogs.html blogs=blogs %}
