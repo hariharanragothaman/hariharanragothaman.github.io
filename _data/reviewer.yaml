@@ -4,7 +4,7 @@
     - year: 2025
       url: https://www.sciencedirect.com/journal/softwarex
 
-- venue: International Conference on Information Systems, Nashville, TN, USA
+- venue: International Conference on Information Systems, Nashville, Tennessee, USA
   venue-shorthand: ICIS-2025
   years:
     - year: 2025
@@ -102,13 +102,13 @@
     - year: 2024
       url: https://neuralcompression.github.io/workshop24
 
-- venue: Association of Health Learning and Inference - Machine Learning for Health Symposium
+- venue: Association of Health Learning and Inference - Machine Learning for Health Symposium, San Diego, California
   venue-shorthand: ML4H 2024
   years:
     - year: 2024
       url: https://ahli.cc/ml4h/
 
-- venue: IEEE International Conference on Advanced Networks and Telecommunications Systems
+- venue: IEEE International Conference on Advanced Networks and Telecommunications Systems, IIT Guwahati, Assam, India
   venue-shorthand: ANTS-2024
   years:
     - year: 2024
@@ -120,7 +120,7 @@
     - year: 2024
       url: https://joss.theoj.org/
 
-- venue: International Conference on Data, Computation and Communication, VIT Bhopal
+- venue: International Conference on Data, Computation and Communication, VIT Bhopal, India
   venue-shorthand: ICDCC 2024
   years:
     - year: 2024
@@ -132,7 +132,7 @@
     - year: 2024
       url: https://www.cuchd.in/conference/itids-2024/
 
-- venue: Safe Generative AI Workshop
+- venue: Safe Generative AI Workshop, Vancouver, Canada
   venue-shorthand: NeurIPS 2024
   years:
     - year: 2024
@@ -144,7 +144,7 @@
     - year: 2024
       url: http://ieeesilcon.org.in/
 
-- venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing
+- venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing, India
   venue-shorthand: AKGEC-2024
   years:
     - year: 2024
