@@ -1,5 +1,13 @@
+
+
 {% comment %}
+Renders one venue entry in the format:
 Position – Venue   (shorthand)
+Expects a `venue` object with keys:
+- venue            (string, required)
+- position         (string, optional)
+- venue-shorthand  (string, optional)
+- years            (list of {year, url?})
 {% endcomment %}
 
 {% for y in venue.years %}
@@ -13,9 +21,7 @@ Position – Venue   (shorthand)
     {% endif %}
 
     {% if y.url %}
-    <a href="{{ y.url }}" style="color:#007bff !important;text-decoration:none;">
-        {{ venue.venue }}
-    </a>
+    <a href="{{ y.url }}">{{ venue.venue }}</a>
     {% else %}
     {{ venue.venue }}
     {% endif %}
