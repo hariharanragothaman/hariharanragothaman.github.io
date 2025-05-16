@@ -80,10 +80,16 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Memberships
+## Articles and Blogs
 
-{% for item in site.data.membership %}
-{% include cv/membership.html membership=item %}
+{% for blogs in site.data.blogs %}
+{% include cv/blogs.html blogs=blogs %}
+{% endfor %}
+
+## Speaking and Press
+
+{% for press in site.data.press %}
+{% include cv/press.html press=press %}
 {% endfor %}
 
 
@@ -112,14 +118,8 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Articles and Blogs
+## Memberships
 
-{% for blogs in site.data.blogs %}
-{% include cv/blogs.html blogs=blogs %}
-{% endfor %}
-
-## Speaking and Press
-
-{% for press in site.data.press %}
-{% include cv/press.html press=press %}
+{% for item in site.data.membership %}
+{% include cv/membership.html membership=item %}
 {% endfor %}
