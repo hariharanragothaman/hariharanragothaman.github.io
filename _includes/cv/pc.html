@@ -1,9 +1,10 @@
 {% comment %}
-Renders one venue entry with optional position and shorthand.
-Expects a `venue` variable (hash) with keys:
+Renders one venue entry in the format:
+Position – Venue   (shorthand)
+Expects a `venue` object with keys:
 - venue            (string, required)
 - position         (string, optional)
-- venue‑shorthand  (string, optional)
+- venue-shorthand  (string, optional)
 - years            (list of {year, url?})
 {% endcomment %}
 
@@ -13,14 +14,14 @@ Expects a `venue` variable (hash) with keys:
 </div>
 
 <div>
+    {% if venue.position %}
+    <span class="cv-role">{{ venue.position }}</span>&nbsp;–&nbsp;
+    {% endif %}
+
     {% if y.url %}
     <a href="{{ y.url }}">{{ venue.venue }}</a>
     {% else %}
     {{ venue.venue }}
-    {% endif %}
-
-    {% if venue.position %}
-    &nbsp;–&nbsp;<span class="cv-role">{{ venue.position }}</span>
     {% endif %}
 
     {% if venue.venue-shorthand %}
