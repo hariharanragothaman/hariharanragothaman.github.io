@@ -1,5 +1,5 @@
-- venue: Software-X, Elsevier Journal
-  venue-shorthand:
+- venue: Software-X
+  venue-shorthand: Elsevier Journal
   years:
     - year: 2025
       url: https://www.sciencedirect.com/journal/softwarex
