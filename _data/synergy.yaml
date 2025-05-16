@@ -69,14 +69,14 @@
       url: https://hackberkeley.org/
 
 - venue: 24-hour hackathon at Rutgers University.
-  venue-shorthand: HackRU-2019
+  venue-shorthand: HackRU
   position: Judge
   years:
     - year: 2019
       url: https://www.hackru.org/
 
-- venue: GT Hacks at Georgia Institute of Technology (GaTech)
-  venue-shorthand:
+- venue: Hackathon at Georgia Institute of Technology
+  venue-shorthand: HackGT
   position: Judge
   years:
     - year: 2019
