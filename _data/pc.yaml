@@ -5,8 +5,8 @@
     - year: 2025
       url: https://ieeeusa.org/committees/rdpc/
 
-- venue: IEEE EDUCON 2025, London, UK
-  venue-shorthand:
+- venue: IEEE Global Engineering Education Conference, London, UK
+  venue-shorthand: IEEE EDUCON
   position: Technical Program Committee Member
   years:
     - year: 2025
