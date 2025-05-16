@@ -34,6 +34,11 @@
     - year: 2025
       url: https://www.iscaie.org/
 
+- venue: 21st IEEE International Colloquium on Signal Processing & Its Applications
+  venue-shorthand: CSPA-2025
+  years:
+    - year: 2025
+      url: https://sites.google.com/view/asprg-cspa/home
 
 - venue: Entrepreneurship, Innovation and Society Conference
   venue-shorthand:  EIS 3.0
@@ -41,11 +46,23 @@
     - year: 2025
       url: https://www.bmu.edu.in/eis-conference2025/index.html
 
-- venue: 21st IEEE International Colloquium on Signal Processing & Its Applications
-  venue-shorthand: CSPA-2025
+- venue: Machine Learning and Compression Workshop @ NeurIPS 2024
+  venue-shorthand:
   years:
-    - year: 2025
-      url: https://sites.google.com/view/asprg-cspa/home
+    - year: 2024
+      url: https://neuralcompression.github.io/workshop24
+
+- venue: Association of Health Learning and Inference - Machine Learning for Health Symposium
+  venue-shorthand: ML4H 2024
+  years:
+    - year: 2024
+      url: https://ahli.cc/ml4h/
+
+- venue: IEEE International Conference on Advanced Networks and Telecommunications Systems
+  venue-shorthand: ANTS-2024
+  years:
+    - year: 2024
+      url: https://ants2024.ieee-ants.org/
 
 - venue: Journal of Open Source Software
   venue-shorthand: JOSS
@@ -70,24 +87,6 @@
   years:
     - year: 2024
       url: https://safegenaiworkshop.github.io/
-
-- venue: Machine Learning and Compression Workshop @ NeurIPS 2024
-  venue-shorthand:
-  years:
-    - year: 2024
-      url: https://neuralcompression.github.io/workshop24
-
-- venue: Association of Health Learning and Inference - Machine Learning for Health Symposium
-  venue-shorthand: ML4H 2024
-  years:
-    - year: 2024
-      url: https://ahli.cc/ml4h/
-
-- venue: IEEE International Conference on Advanced Networks and Telecommunications Systems
-  venue-shorthand: ANTS-2024
-  years:
-    - year: 2024
-      url: https://ants2024.ieee-ants.org/
 
 - venue: 2024 IEEE Silchar Subsection Conference, National Institute of Technology, Agartala
   venue-shorthand:
