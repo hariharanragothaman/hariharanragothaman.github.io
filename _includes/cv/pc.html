@@ -1,0 +1,32 @@
+{% comment %}
+Renders one venue entry with optional position and shorthand.
+Expects a `venue` variable (hash) with keys:
+- venue            (string, required)
+- position         (string, optional)
+- venue‑shorthand  (string, optional)
+- years            (list of {year, url?})
+{% endcomment %}
+
+{% for y in venue.years %}
+<div class="cv-left-date">
+    {{ y.year }}
+</div>
+
+<div>
+    {% if y.url %}
+    <a href="{{ y.url }}">{{ venue.venue }}</a>
+    {% else %}
+    {{ venue.venue }}
+    {% endif %}
+
+    {% if venue.position %}
+    &nbsp;–&nbsp;<span class="cv-role">{{ venue.position }}</span>
+    {% endif %}
+
+    {% if venue.venue-shorthand %}
+    &nbsp;(<b>{{ venue.venue-shorthand }}</b>)
+    {% endif %}
+</div>
+
+<div class="cv-spacer"></div>
+{% endfor %}
