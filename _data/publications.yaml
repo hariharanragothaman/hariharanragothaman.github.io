@@ -43,6 +43,16 @@
   type: conference
   pdf: https://www.icict.org/
 
+- id: book-chapter
+  authors:
+    - Advait Patel
+    - Hariharan Ragothaman
+  title: Cloud Security and Data Protection in Hybrid Environments, Strategies, Challenges and Best Practices
+  venue: IGI Global Publishing
+  year: 2025
+  type: conference
+  pdf: https://doi.org/10.4018/979-8-3373-1370-2.ch010
+
 - id: anomaly-detection
   authors:
     - Advait Patel
