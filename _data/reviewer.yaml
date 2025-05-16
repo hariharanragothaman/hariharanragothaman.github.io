@@ -40,6 +40,12 @@
     - year: 2025
       url: https://2025.midl.io/
 
+- venue: The AHLI Conference on Health, Inference, and Learning, Berkeley, California
+  venue-shorthand: CHIL 2025
+  years:
+    - year: 2025
+      url: https://chil.ahli.cc/
+
 - venue: 18th International Conference of Students of Systematic Musicology, Oslo, Norway
   venue-shorthand: SysMus-2025
   years:
