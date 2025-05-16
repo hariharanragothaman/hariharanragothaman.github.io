@@ -1,6 +1,6 @@
 - venue: IEEE USA Government Relations R&D Policy Committee
   venue-shorthand: IEEE RDPC
-  position: Program Committee Member
+  position: Technical Program Committee Member
   years:
     - year: 2025
       url: https://ieeeusa.org/committees/rdpc/
@@ -21,21 +21,21 @@
 
 - venue: Canadian C++ Conference
   venue-shorthand: CPPNorth 2025
-  position: Program Committee Member
+  position: Technical Program Committee Member
   years:
     - year: 2025
       url: https://cppnorth.ca/
 
 - venue: Canadian C++ Conference
   venue-shorthand: CPPNorth 2023
-  position: Program Committee Member
+  position: Technical Program Committee Member
   years:
     - year: 2023
       url: https://cppnorth.ca/
 
 - venue: International Conference on Electronic Devices, Systems and Applications
   venue-shorthand: ICEDSA-2012
-  position: Technical Program Committee
+  position: Technical Program Committee Member
   years:
     - year: 2012
       url: https://ieeexplore.ieee.org/xpl/conhome/6504611/proceeding
