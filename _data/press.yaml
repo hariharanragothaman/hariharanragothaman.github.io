@@ -1,16 +1,16 @@
-- title: Technical Speaker | AI Track
-  month: Feb 26
-  year: 2025
-  publisher:
-    - url:
-      name: IEEE Orange County Section - Speaker Series
-
 - title: Technical Speaker | Data Track
   month: Feb 6
   year: 2025
   publisher:
     - url: https://www.conf42.com/Python_2025_Hariharan_Ragothaman_cpp_python_workloads
       name: conf42 Python 2025 - Online
+
+- title: Technical Speaker | AI Track
+  month: Feb 26
+  year: 2025
+  publisher:
+    - url:
+      name: IEEE Orange County Section - Speaker Series
 
 - title: Technical Speaker | Scaling Track
   month: Jan 23
