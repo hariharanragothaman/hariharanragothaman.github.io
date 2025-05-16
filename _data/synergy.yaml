@@ -3,7 +3,7 @@
   position: Judge, North American Team
   years:
     - year: 2025
-  url: https://www.sscs-arduino-contest.com/our-team
+      url: https://www.sscs-arduino-contest.com/our-team
 
 - venue: MIT Reality Hack, Massachusetts Institute of Technology, Boston, USA
   venue-shorthand:
@@ -17,14 +17,14 @@
   position: Judge
   years:
     - year: 2025
-  url: https://www.computer.org/publications/tech-news/events/computings-top-30-early-career-professionals-2024
+      url: https://www.computer.org/publications/tech-news/events/computings-top-30-early-career-professionals-2024
 
 - venue: Veterans Appreciations Challenge, Army Educational Outreach Program (AEOP) - 3D Modeling
-  venue-shorthand: (AEOP)
+  venue-shorthand: AEOP
   position: Judge
   years:
     - year: 2024, 2025
-  url: https://www.usaeop.com/
+      url: https://www.usaeop.com/
 
 - venue: Vellore Institute of Technology - John Hopkins University Health Hackathon
   venue-shorthand: VIT-JHU
