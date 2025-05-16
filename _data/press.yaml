@@ -5,7 +5,7 @@
     - url: https://swampup.jfrog.com/
       name: SwampUp 2025
 
-- title: Technical Speaker
+- title: Building Resilience - Revolutionizing Application Security with Unified Deployments with Unified Deployments and Automated SBOM
   month: May 14
   year: 2025
   publisher:
@@ -19,49 +19,49 @@
     - url: https://owaspbasc2025.sched.com/event/1xqiy/uncovering-100k-security-violations-strengthening-application-security-through-unified-deployments-xray-integration-and-automated-sbom-generation?iframe=no
       name: OWASP Foundation, The Boston Application Security Conference 2025
 
-- title: Technical Speaker | AI Track
+- title: Advancing Healthcare Security with DevSecOps -  Initiatives and Industry Insights | AI Track
   month: Feb 26
   year: 2025
   publisher:
     - url: https://events.vtools.ieee.org/m/463744
       name: IEEE Orange County Section - Speaker Series
 
-- title: Technical Speaker | Data Track
+- title: C++ and Python - Building Robust Applications by Offloading Compute-Heavy Workloads | Data Track
   month: Feb 6
   year: 2025
   publisher:
     - url: https://www.conf42.com/Python_2025_Hariharan_Ragothaman_cpp_python_workloads
       name: conf42 Python 2025 - Online
 
-- title: Technical Speaker | Scaling Track
+- title: Securely Unifying Deployments in an Organization for Increased Governance | Scaling Track
   month: Jan 23
   year: 2025
   publisher:
     - url: https://www.conf42.com/DevOps_2025_Hariharan_Ragothaman_deployments_governance_securely
       name: conf42 DevOps 2025 - Online
 
-- title: Keynote Speaker | AI Track
+- title: DevSecOps in Action - Building Resilient and Secure Distributed Systems| AI Track
   month: Dec 21
   year: 2024
   publisher:
     - url: https://www.linkedin.com/feed/update/urn:li:activity:7265642701260242946/
       name: IEEE International Conference on Augmented Reality, Intelligent Systems and Industrial Automation (ARIAA 2024)
 
-- title: Technical Speaker | AI Track
+- title: Artificial Intelligence Driven Automation in DevOps -  Transforming Security and Resilience | AI Track
   month: Dec 15
   year: 2024
   publisher:
     - url: https://icmr-iitm.com/speakers.html
       name: International Conference on Multidisciplinary Research (ICMR-2024)
 
-- title: Technical Speaker | Embedded Software Track
+- title: Improving Code quality through Continuous integration Testing | Embedded Software Track
   month: Nov 1
   year: 2017
   publisher:
     - url:
       name: Bose Technical Conference (BTC-2017), Title - Improving Code Quality through Continuous Integration Testing
 
-- title: Technical Speaker | Robotics Track
+- title: Establishing Design Routines for Effective Control of Automated Robots & Amelioration of Swing free maneuvers of Quad rotor with Suspended Payload  | Robotics Track
   month: Oct 16
   year: 2012
   publisher:
