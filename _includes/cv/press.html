@@ -3,7 +3,7 @@
 {{ press.title }}
 <div class="cv-description">
 {% for item in press.publisher %}
-	<a href="{{ item.url }}"> <strong>{{ item.name }}</strong></a>{% if forloop.last == false %}, {% endif %}
+	<a href="{{ item.url }}"> {{ item.name }} </a>{% if forloop.last == false %}, {% endif %}
 {% endfor %}
 </div>
 
