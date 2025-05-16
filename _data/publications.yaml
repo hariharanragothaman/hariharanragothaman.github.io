@@ -65,6 +65,20 @@
   type: conference
   pdf: https://satcconf.com/
 
+- id: emotion-detection
+  authors:
+    - Hariharan Ragothaman
+    - Arjun Jaggi
+    - Jagbir Singh
+    - Sapaev Sindor
+    - Eshchanova Nasiba
+    - Aniket Adarsh
+  title: Real-Time Emotion Detection in AR Mental Health Applications Using Sentiment Analysis Algorithms
+  venue: IEEE International Conference on Advances in Computer Science, Electrical, Electronics, and Communication Technologies (CE2CT)
+  year: 2025
+  type: conference
+  pdf: https://ieeexplore.ieee.org/document/10939650
+
 - id: automated-security
   authors:
     - Advait Patel
