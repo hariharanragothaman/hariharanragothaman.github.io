@@ -1,4 +1,18 @@
 - title: Template for Backtracking Problems - Part1 (Basics)
+  month: April 23
+  year: 2025
+  publisher:
+    - url: https://medium.com/upsolve-digest/why-do-we-sometimes-need-explicit-97414daab8f1
+      name: Medium - Why do we need explicit keyword in C++?
+
+- title: Template for Backtracking Problems - Part1 (Basics)
+  month: Aug 9
+  year: 2023
+  publisher:
+    - url: https://medium.com/upsolve-digest/template-for-backtracking-problems-part1-the-basics-75f744cab925
+      name: Medium - Backtracking templates to solve competitive programming problems
+
+- title: Template for Backtracking Problems - Part1 (Basics)
   month: Aug 9
   year: 2023
   publisher:
