@@ -16,8 +16,8 @@
     - year: 2025
       url: https://www.isci.asia/
 
-- venue: International Joint Conference on Neural Networks (IJCNN)
-  venue-shorthand: Reviewer
+- venue: International Joint Conference on Neural Networks
+  venue-shorthand: IJCNN
   years:
     - year: 2025
       url: https://2025.ijcnn.org/
