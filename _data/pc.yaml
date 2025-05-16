@@ -19,6 +19,13 @@
     - year: 2025
       url: https://2025.ieee-educon.org/
 
+- venue: IEEE Computer Society, Supercharge Your Career - Micro Mentoring Initiative
+  venue-shorthand: IEEE-CS-SYP
+  position: Mentor
+  years:
+    - year: 2025
+      url: https://ieeeusa.org/committees/rdpc/
+
 - venue: 23rd USENIX Conference on File and Storage Technologies, SantaClara, USA
   venue-shorthand: FAST 2025
   position: Technical Program Committee Member

@@ -52,17 +52,30 @@
     - year: 2025
       url: https://www.uio.no/ritmo/english/news-and-events/events/conferences/2025/sysmus25/
 
-- venue: Integrating Security in Cloud-Native Development - A DevSecOps Approach to Resilient Software Systems
-  venue-shorthand: IGI Global Publishing
-  years:
-    - year: 2025
-      url: https://www.igi-global.com/
 
 - venue: 15th IEEE Symposium on Computer Applications & Industrial Electronics
   venue-shorthand: ISCAIE-2025
   years:
     - year: 2025
       url: https://www.iscaie.org/
+
+- venue: Integrating Security in Cloud-Native Development - A DevSecOps Approach to Resilient Software Systems
+  venue-shorthand: IGI Global Publishing
+  years:
+    - year: 2025
+      url: https://www.igi-global.com/
+
+- venue: ICLR 2025 Workshop on Foundation Models in the Wild, Singapore
+  venue-shorthand: ICLR 2025 FM-Wild Workshop
+  years:
+    - year: 2025
+      url: https://fm-wild-community.github.io/
+
+- venue: Deep Generative Model in Machine Learning - Theory, Principle and Efficacy, Singapore
+  venue-shorthand: ICLR 2025 DeLTa Workshop
+  years:
+    - year: 2025
+      url: https://delta-workshop.github.io/#home
 
 - venue: 21st IEEE International Colloquium on Signal Processing & Its Applications
   venue-shorthand: CSPA-2025
