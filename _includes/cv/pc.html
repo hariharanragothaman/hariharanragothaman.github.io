@@ -1,36 +1,33 @@
 {% comment %}
-Displays a service/committee role:
-“Position – Venue, Location” with year in left column.
-Expects `venue` hash keys:
-venue            (string, required)
-position         (string, optional)
-venue-shorthand  (string, optional)
-years            (list of {year, url?})
-{% endcomment %}
+Displays a committee/service entry in the format:
+Position – Venue
+Expects a `venue` object with keys:
+- venue            (string, required)
+- position         (string, optional)
+- venue‑shorthand  (string, optional; may contain dashes)
+- years            (array of {year: <int>, url: <string?>})
+    {% endcomment %}
 
-{% for y in venue.years %}
-<div class="cv-left-date">
-    {{ y.year }}
-</div>
+    {% for y in venue.years %}
+    <div class="cv-left-date">
+        {{ y.year }}
+    </div>
 
-<div>
-    {#‑‑ Position first, if present ‑‑#}
-    {% if venue.position %}
-    <span class="cv-role">{{ venue.position }}</span> – 
-    {% endif %}
+    <div>
+        {% if venue.position %}
+        <span class="cv-role">{{ venue.position }}</span>&nbsp;–&nbsp;
+        {% endif %}
 
-    {#‑‑ Venue name, linked if URL provided ‑‑#}
-    {% if y.url %}
-    <a href="{{ y.url }}">{{ venue.venue }}</a>
-    {% else %}
-    {{ venue.venue }}
-    {% endif %}
+        {% if y.url %}
+        <a href="{{ y.url }}">{{ venue.venue }}</a>
+        {% else %}
+        {{ venue.venue }}
+        {% endif %}
 
-    {#‑‑ Optional shorthand in parentheses ‑‑#}
-    {% if venue['venue-shorthand'] %}
-    ( <b>{{ venue['venue-shorthand'] }}</b> )
-    {% endif %}
-</div>
+        {% if venue["venue-shorthand"] %}
+        &nbsp;(<b>{{ venue["venue-shorthand"] }}</b>)
+        {% endif %}
+    </div>
 
-<div class="cv-spacer"></div>
-{% endfor %}
+    <div class="cv-spacer"></div>
+    {% endfor %}
