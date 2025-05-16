@@ -4,7 +4,13 @@
     - year: 2025
       url: https://www.sciencedirect.com/journal/softwarex
 
-- venue: International Joint Conference on Neural Networks
+- venue: 34th International Joint Conference on Artificial Intelligence, Montreal, Canada
+  venue-shorthand: IJCAI-2025
+  years:
+    - year: 2025
+      url: https://2025.ijcai.org/
+
+- venue: International Joint Conference on Neural Networks, Rome
   venue-shorthand: IJCNN
   years:
     - year: 2025
@@ -16,7 +22,7 @@
     - year: 2025
       url: https://2025.midl.io/
 
-- venue: 7th IEEE Symposium on Computers & Informatics
+- venue: 7th IEEE Symposium on Computers & Informatics, Kaula Lumpur, Malaysia
   venue-shorthand: ISCI-2025
   years:
     - year: 2025
