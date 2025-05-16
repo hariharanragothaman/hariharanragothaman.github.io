@@ -113,7 +113,6 @@ jsarr:
 {% include cv/talk.html talk=title %}
 {% endfor %}
 
-
 {% assign talktitles = site.data.university_lectures | group_by:"title" %}
 {% for title in talktitles %}
 {% include cv/university_lectures.html talk=title %}
