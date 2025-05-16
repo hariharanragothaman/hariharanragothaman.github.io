@@ -73,6 +73,13 @@ jsarr:
 {% endfor %}
 {:/}
 
+## Selected Honors & Awards
+
+{% for award in site.data.awards %}
+{% include cv/award.html award=award %}
+{% endfor %}
+
+
 ## Publications
 
 {% assign selectedBoolForBibtex = true %}
@@ -87,12 +94,6 @@ jsarr:
 
 {% for blogs in site.data.blogs %}
 {% include cv/blogs.html blogs=blogs %}
-{% endfor %}
-
-## Speaking & Press
-
-{% for press in site.data.press %}
-{% include cv/press.html press=press %}
 {% endfor %}
 
 ## Peer-Reviewing & Judging
@@ -120,12 +121,11 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Selected Honors & Awards
+## Speaking & Press
 
-{% for award in site.data.awards %}
-{% include cv/award.html award=award %}
+{% for press in site.data.press %}
+{% include cv/press.html press=press %}
 {% endfor %}
-
 
 ## Memberships
 
