@@ -25,3 +25,10 @@
   years:
     - year: 2025
       url: https://cppnorth.ca/
+
+- venue: Canadian C++ Conference
+  venue-shorthand: CPPNorth 2023
+  position: Program Committee Member
+  years:
+    - year: 2023
+      url: https://cppnorth.ca/
