@@ -4,6 +4,13 @@
     - year: 2025
       url: https://www.sciencedirect.com/journal/softwarex
 
+- venue: International Conference on Information Systems, Nashville, TN, USA
+  venue-shorthand: ICIS-2025
+  years:
+    - year: 2025
+      url: https://icis2025.aisconferences.org/
+
+
 - venue: 34th International Joint Conference on Artificial Intelligence, Montreal, Canada
   venue-shorthand: IJCAI-2025
   years:
