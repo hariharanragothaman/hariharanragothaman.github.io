@@ -144,7 +144,7 @@
   venue: 3rd IEEE International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI), Chennai, India
   year: 2025
   type: conference
-  pdf:
+  pdf: https://ieeexplore.ieee.org/document/11011761
 
 - id: nlp-automation
   authors:
