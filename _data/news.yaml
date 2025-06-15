@@ -58,14 +58,19 @@
 
 #-------------------------------------------- June  ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
-  year-extra: May
+  year-extra: June
+  description: Paper accepted at <a href="https://eit-conference.org/eit2025/">EIT 2025</a>
+
+- year: 2025
+  year-extra: June
   description: Reviewer and Program Chair at <a href="https://chil.ahli.cc/">CHIL 2025</a>
 
 - year: 2025
-  year-extra: May
+  year-extra: June
   description: Reviewer and Program Chair at <a href="https://www.immersivelrn.org/ilrn2025/organizing-committee/">iLRN 2025</a>
 
 #-------------------------------------------- May  -------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - year: 2025
   year-extra: May
   description: Paper accepted at <a href="https://cai.ieee.org/2025/">CAI 2025</a>
