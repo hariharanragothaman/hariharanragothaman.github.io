@@ -1,4 +1,16 @@
 ---
+- id: agentic-ai
+  authors:
+    - Advait Patel
+    - Charit Upadhyay
+    - Adit Sheth
+    - Hariharan Ragothaman
+  title: Agentic AI for Autonomous Cyber Threat Hunting and Adaptive Defense in Dynamic Security Environments
+  venue: IEEE Conference on Electro/Information Technology, EIT 2025, Valparaiso University, Indiana, USA
+  year: 2025
+  type: conference
+  pdf: https://eit-conference.org/eit2025/
+
 - id: ai-powered-encryption
   authors:
     - Advait Patel
