@@ -59,6 +59,10 @@
 #-------------------------------------------- June  ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
   year-extra: June
+  description: Invited Technical Speaker at <a href="https://circle.cloudsecurityalliance.org/viewdocument/recording-zero-trust-at-the-api-la?CommunityKey=76100168-bb90-4ba9-ae5f-31c9264d05c1&tab=librarydocuments"Cloud Security Alliance - Zero Trust Committee</a>
+
+- year: 2025
+  year-extra: June
   description: Paper accepted at <a href="https://eit-conference.org/eit2025/">EIT 2025</a>
 
 - year: 2025
