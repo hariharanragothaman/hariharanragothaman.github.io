@@ -53,12 +53,9 @@
   year-extra: July
   description: Reviewer at <a href="https://2025.midl.io/">MIDL 2025</a>
 
-#-------------------------------------------- July  ------------------------------------------------------------------------------------------------------------------------------------------------------
-
 - year: 2025
   year-extra: July
   description: Reviewer at <a href="https://www.uio.no/ritmo/english/news-and-events/events/conferences/2025/sysmus25/">SysMus25</a>
-
 
 #-------------------------------------------- June  ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
@@ -70,8 +67,12 @@
   description: Invited Technical Speaker at <a href="https://www.meetup.com/acm-austin/events/307909138/">ACM Austin - Lightning Talks</a>
 
 - year: 2025
-  year-extra: April
-  description: Committee Member at <a href="https://ieeeusa.org/committees/aipc/#:~:text=The%20committee%20meets%20as%20needed,efforts%20within%20the%20United%20States."> IEEE Government Relations AI Policy Committee </a>
+  year-extra: June
+  description: Technical Committee Member at <a href="https://ieee-dataport.org/"> IEEE Data Port Site Enhancement Sub Committee </a>
+
+- year: 2025
+  year-extra: June
+  description: Technical Committee Member at <a href="https://ieeeusa.org/committees/aipc/#:~:text=The%20committee%20meets%20as%20needed,efforts%20within%20the%20United%20States."> IEEE Government Relations AI Policy Committee </a>
 
 - year: 2025
   year-extra: June
@@ -91,11 +92,9 @@
   year-extra: May
   description: Paper accepted at <a href="https://cai.ieee.org/2025/">CAI 2025</a>
 
-
 - year: 2025
   year-extra: May
   description: Honored with prestigious <a href="https://x.com/miliefsky/status/1920114663351595197">Annual Global InfoSec Award</a> at <a href="https://www.rsaconference.com/usa">RSA 2025</a>
-
 
 - year: 2025
   year-extra: May
