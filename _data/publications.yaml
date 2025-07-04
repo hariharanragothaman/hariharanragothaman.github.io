@@ -38,7 +38,7 @@
   venue: 8th IEEE International Conference on Information and Computer Technologies (ICICT), Hilo, Hawaii, USA
   year: 2025
   type: conference
-  pdf: https://www.icict.org/
+  pdf: https://ieeexplore.ieee.org/document/11058500
 
 - id: gen-ai-cyber-security
   authors:
@@ -53,7 +53,7 @@
   year: 2025
   award: Best Paper Award
   type: conference
-  pdf: https://www.icict.org/
+  pdf: https://ieeexplore.ieee.org/document/11058483
 
 - id: book-chapter
   authors:
