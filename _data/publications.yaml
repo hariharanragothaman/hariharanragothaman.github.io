@@ -24,7 +24,7 @@
   venue: IEEE Conference on Artificial Intelligence, CAI 2025, SantaClara, California, USA
   year: 2025
   type: conference
-  pdf: https://cai.ieee.org/2025/
+  pdf: https://ieeexplore.ieee.org/document/11050593
 
 - id: dynamic-secret-injection
   authors:
