@@ -12,6 +12,13 @@
     - url: https://swampup.jfrog.com/
       name: SwampUp 2025
 
+- title: Zero Trust at the API Layer -  Strategies for Securing Microservices in Multi-Cloud Environments
+  month: June
+  year: 2025
+  publisher:
+    - url: https://circle.cloudsecurityalliance.org/viewdocument/recording-zero-trust-at-the-api-la?CommunityKey=76100168-bb90-4ba9-ae5f-31c9264d05c1&tab=librarydocuments
+      name: Zero Trust Working Group | CSA - Cloud Security Alliance
+
 - title: Building Resilience - Revolutionizing Application Security with Unified Deployments with Unified Deployments and Automated SBOM
   month: May 14
   year: 2025
