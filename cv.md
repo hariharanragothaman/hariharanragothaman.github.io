@@ -90,12 +90,6 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Technical Blogs & Thought Leadership
-
-{% for blogs in site.data.blogs %}
-{% include cv/blogs.html blogs=blogs %}
-{% endfor %}
-
 ## Invited Technical Talks, Keynotes & Press
 
 {% for press in site.data.press %}
@@ -135,6 +129,12 @@ jsarr:
 
 {% for item in site.data.membership %}
 {% include cv/membership.html membership=item %}
+{% endfor %}
+
+## Technical Blogs & Thought Leadership
+
+{% for blogs in site.data.blogs %}
+{% include cv/blogs.html blogs=blogs %}
 {% endfor %}
 
 ## Mentees & Interns
