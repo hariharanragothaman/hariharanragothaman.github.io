@@ -5,7 +5,11 @@
 #-------------------------------------------- December  ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
   year-extra: December
-  description: Reviewer at  <a href="https://neurips.cc/Conferences/2025"> NeurIPS 2025 </a>
+  description: Reviewer at  <a href="https://neurips.cc/Conferences/2025"> NeurIPS 2025 (Position Paper) </a>
+
+- year: 2025
+  year-extra: December
+  description: Reviewer at  <a href="https://berts-workshop.github.io/"> BERT^2S Workshop - NeurIPS 2025 </a>
 
 - year: 2025
   year-extra: December
@@ -25,6 +29,10 @@
 - year: 2025
   year-extra: September
   description: Invited Technical Speaker at  <a href="https://swampup.jfrog.com/featured-speakers/"> JFrog SwampUp 2025 </a>
+
+- year: 2025
+  year-extra: September
+  description: Published <a href="https://www.amazon.com/Implementing-Identity-Management-GCP-Challenges/dp/B0F9XV4JR3?ref_=ast_author_mpb"> Book </a> on Identity Management on GCP Cloud
 
 #-------------------------------------------- August  ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -49,6 +57,11 @@
   description: Invited Technical Speaker at <a href="https://www.meetup.com/elastic-new-york-city-user-group/events/310082602//">PyData NYC </a>
 
 #-------------------------------------------- July  ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- year: 2025
+  year-extra: July
+  description: Selected as IEEE Day Ambassador 2025 <a href="https://ieeeday.org/ambassadors-2025/</a>
+
 - year: 2025
   year-extra: July
   description: Featured in TestGuild Devops Toolchain Podcast at <a href="https://open.spotify.com/episode/4yplkd6XbmU0A8PUlrMDYE?si=e364f05405d24e73">Spotify</a>, <a href="https://www.amazon.com/dp/B08JJT9MJ4?ref=cm_sw_r_cp_ud_dp_BGQ7MS50ARPZ62Z16KTV&ref_=cm_sw_r_cp_ud_dp_BGQ7MS50ARPZ62Z16KTV&social_share=cm_sw_r_cp_ud_dp_BGQ7MS50ARPZ62Z16KTV">Amazon</a> <a href="https://podcasts.apple.com/us/podcast/ai-iot-and-the-future-of/id1478816027?i=1000716548014">Apple </a> <a href="https://www.youtube.com/watch?v=tlRdrqWABQk"> Youtube </a>
