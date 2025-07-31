@@ -5,19 +5,19 @@
     - url: https://www.rtc-conference.com/2025/
       name: Real Time Communications Conference 2025 & Expo at Illinois Tech
 
-- title: Async Python for Data Science -  Speeding Up IO - Bound Workflows
-  month: Sept 9
-  year: 2025
-  publisher:
-    - url: https://www.meetup.com/elastic-new-york-city-user-group/events/310082602/
-      name: Elastic & PyData Joint Meetup
-
 - title: Unified DevSecOps Pipelines - Accelerating Secure Deployments with NLP and JFrog XRAY
   month: Sept 9
   year: 2025
   publisher:
     - url: https://swampup.jfrog.com/
       name: SwampUp 2025
+
+- title: Async Python for Data Science -  Speeding Up IO - Bound Workflows
+  month: August 13
+  year: 2025
+  publisher:
+    - url: https://www.meetup.com/elastic-new-york-city-user-group/events/310082602/
+      name: Elastic & PyData Joint Meetup
 
 - title: Zero Trust at the API Layer -  Strategies for Securing Microservices in Multi-Cloud Environments
   month: June
