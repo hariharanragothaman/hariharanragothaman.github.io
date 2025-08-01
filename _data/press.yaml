@@ -33,6 +33,14 @@
     - url: https://circle.cloudsecurityalliance.org/viewdocument/recording-zero-trust-at-the-api-la?CommunityKey=76100168-bb90-4ba9-ae5f-31c9264d05c1&tab=librarydocuments
       name: Zero Trust Working Group | CSA - Cloud Security Alliance
 
+- title: Secure-by-Design AI Agents -  Open-Source Workflows for DevSecOps Automation
+  month: June 10
+  year: 2025
+  publisher:
+    - url: https://www.meetup.com/acm-austin/events/307909138/
+      name: ACM Austin Kickoff -  Lightning Talks, Austin, TX, USA
+
+
 - title: Building Resilience - Revolutionizing Application Security with Unified Deployments with Unified Deployments and Automated SBOM
   month: May 14
   year: 2025
