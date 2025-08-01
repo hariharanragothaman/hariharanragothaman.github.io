@@ -4,6 +4,12 @@
     - year: 2025
       url: https://neurips.cc/
 
+- venue: (BERT^2S) - the NeurIPS workshop on Recent Advances on Time Series Foundation Models
+  venue-shorthand: NeurIPS 2025
+  years:
+    - year: 2025
+      url: https://berts-workshop.github.io/
+
 - venue: Software-X
   venue-shorthand: Elsevier Journal
   years:
