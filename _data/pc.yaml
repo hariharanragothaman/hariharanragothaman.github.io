@@ -1,3 +1,9 @@
+- venue: IEEE Data Port Site Enhancement Sub Committee
+  venue-shorthand: SES
+  position: Technical Program Committee Member (Code Generation using LLM)
+  years:
+    - year: 2025
+      url: https://ieee-dataport.org/
 
 - venue:   IEEE Government Relations AI Policy Committee
   venue-shorthand: AIPC
