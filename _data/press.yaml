@@ -26,6 +26,13 @@
     - url: https://www.meetup.com/elastic-new-york-city-user-group/events/310082602/
       name: Elastic & PyData Joint Meetup, NYC, USA
 
+- title: From Robotics to DevSecOps - A Journey in Tech
+  month: July
+  year: 2025
+  publisher:
+    - url: https://www.youtube.com/watch?v=tlRdrqWABQk
+      name: Testing Guild, DevOps Tools Podcast, Youtube, Amazon, Apple Podcasts
+
 - title: Zero Trust at the API Layer -  Strategies for Securing Microservices in Multi-Cloud Environments
   month: June
   year: 2025
