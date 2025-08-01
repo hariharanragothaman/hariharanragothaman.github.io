@@ -12,6 +12,13 @@
     - url: https://swampup.jfrog.com/
       name: SwampUp 2025
 
+- title: Shift-Left Meets Zero Trust -  Building Secure-by-Design APIs from Day Zero
+  month: August 20
+  year: 2025
+  publisher:
+    - url: https://resources.sei.cmu.edu/news-events/events/secure-software-by-design/index.cfm
+      name: Secure Software by Design 2025, Carnegie Mellon University
+
 - title: Async Python for Data Science -  Speeding Up IO - Bound Workflows
   month: August 13
   year: 2025
