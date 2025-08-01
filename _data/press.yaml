@@ -10,7 +10,7 @@
   year: 2025
   publisher:
     - url: https://swampup.jfrog.com/
-      name: SwampUp 2025, California, USA
+      name: SwampUp 2025, Napa Valley, California, USA
 
 - title: Shift-Left Meets Zero Trust -  Building Secure-by-Design APIs from Day Zero
   month: August 20
@@ -59,21 +59,21 @@
   year: 2025
   publisher:
     - url: https://www.conf42.com/Python_2025_Hariharan_Ragothaman_cpp_python_workloads
-      name: conf42 Python 2025
+      name: conf42 Python 2025, Virtual
 
 - title: Securely Unifying Deployments in an Organization for Increased Governance | Scaling Track
   month: Jan 23
   year: 2025
   publisher:
     - url: https://www.conf42.com/DevOps_2025_Hariharan_Ragothaman_deployments_governance_securely
-      name: conf42 DevOps 2025
+      name: conf42 DevOps 2025, Virtual
 
 - title: DevSecOps in Action - Building Resilient and Secure Distributed Systems| AI Track
   month: Dec 21
   year: 2024
   publisher:
     - url: https://www.linkedin.com/feed/update/urn:li:activity:7265642701260242946/
-      name: IEEE International Conference on Augmented Reality, Intelligent Systems and Industrial Automation (ARIAA 2024)
+      name: IEEE International Conference on Augmented Reality, Intelligent Systems and Industrial Automation (ARIAA 2024), Virtual
 
 - title: Artificial Intelligence Driven Automation in DevOps -  Transforming Security and Resilience | AI Track
   month: Dec 15
@@ -87,11 +87,11 @@
   year: 2017
   publisher:
     - url:
-      name: Bose Technical Conference (BTC-2017)
+      name: Bose Technical Conference (BTC-2017), Framingham, MA, USA
 
 - title: Establishing Design Routines for Effective Control of Automated Robots & Amelioration of Swing free maneuvers of Quad rotor with Suspended Payload  | Robotics Track
   month: Oct 16
   year: 2012
   publisher:
     - url:
-      name: Educators Day, VIMANTRA 2012, National Instruments
+      name: Educators Day, VIMANTRA 2012, National Instruments, Chennai, India
