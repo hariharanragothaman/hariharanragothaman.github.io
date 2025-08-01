@@ -21,7 +21,7 @@ jsarr:
 </p>
 
 <p>
-    Highlights: 23 Publications | 17 Invited Talks | 90+  Manuscripts Reviewed | 11 Hackathons Judged   
+    Highlights: 23 Publications | 18 Invited Talks | 90+  Manuscripts Reviewed | 11 Hackathons Judged   
 </p>
 
 </div>
