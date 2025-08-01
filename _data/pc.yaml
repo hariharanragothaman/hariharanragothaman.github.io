@@ -1,3 +1,11 @@
+
+- venue:   IEEE Government Relations AI Policy Committee
+  venue-shorthand: AIPC
+  position: Technical Program Committee Member
+  years:
+    - year: 2025
+      url: https://ieeeusa.org/committees/aipc/
+
 - venue: IEEE USA Government Relations R&D Policy Committee
   venue-shorthand: RDPC
   position: Technical Program Committee Member
