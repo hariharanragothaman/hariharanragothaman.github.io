@@ -1,4 +1,17 @@
 ---
+
+- id: identity-gcp
+  authors:
+    - Advait Patel
+    - Saai Krishnan Udayakumar
+    - Hariharan Ragothaman
+  title: Implementing Identity Management on GCP -  Learn to Solve Customer and Workforce IAM Challenges on GCP
+  venue: Apress, ISBN-13, 979-8868816963
+  year: 2025
+  type: conference
+  pdf: https://www.amazon.com/Implementing-Identity-Management-GCP-Challenges/dp/B0F9XV4JR3
+
+
 - id: agentic-ai
   authors:
     - Advait Patel
