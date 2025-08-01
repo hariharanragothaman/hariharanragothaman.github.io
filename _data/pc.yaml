@@ -5,6 +5,13 @@
     - year: 2025
       url: https://ieee-dataport.org/
 
+- venue: IEEE Day 2025
+  venue-shorthand:
+  position: Ambassador
+  years:
+    - year: 2025
+      url: https://ieeeday.org/ambassadors-2025/
+
 - venue:   IEEE Government Relations AI Policy Committee
   venue-shorthand: AIPC
   position: Technical Committee Member
