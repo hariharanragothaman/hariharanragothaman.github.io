@@ -32,6 +32,11 @@
 
 - year: 2025
   year-extra: September
+  description: Invited Technical Speaker at  <a href="https://www.red-gate.com/hub/events/redgate-summit-2025-dallas#speakers"> RedGate Summit 2025 </a>
+
+
+- year: 2025
+  year-extra: September
   description: Published <a href="https://www.amazon.com/Implementing-Identity-Management-GCP-Challenges/dp/B0F9XV4JR3?ref_=ast_author_mpb"> Book </a> on Identity Management on GCP Cloud
 
 #-------------------------------------------- August  ------------------------------------------------------------------------------------------------------------------------------------------------------
