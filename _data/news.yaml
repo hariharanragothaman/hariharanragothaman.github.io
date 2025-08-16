@@ -2,6 +2,11 @@
 # For Papers - 'month' is when the conference happened for conferences | For Journals when it was accepted.
 # For other events 'month' is exactly when the event occured.
 
+#-------------------------------------------- April  ------------------------------------------------------------------------------------------------------------------------------------------------------
+- year: 2026
+  year-extra: April
+  description: Reviewer at  <a href="https://www2026.thewebconf.org/"> The ACM Web Conference 2026 Industry Track </a>
+
 #-------------------------------------------- December  ------------------------------------------------------------------------------------------------------------------------------------------------------
 - year: 2025
   year-extra: December
