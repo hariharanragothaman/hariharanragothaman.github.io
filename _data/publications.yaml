@@ -88,7 +88,7 @@
   venue: 1st IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT and Microelectronics (SaTC) , Dayton, Ohio, USA
   year: 2025
   type: conference
-  pdf: https://satcconf.com/
+  pdf: https://ieeexplore.ieee.org/document/11137316
 
 - id: emotion-detection
   authors:
