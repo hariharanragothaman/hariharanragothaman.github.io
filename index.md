@@ -14,7 +14,7 @@ jsarr:
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		Hariharan Ragothaman is a Software Engineer at <a href="https://www.amd.com/en.html">Advanced Micro Devices, Inc (AMD)</a>.
+		Hariharan Ragothaman is Member of Technical Staff  at <a href="https://www.amd.com/en.html">Advanced Micro Devices, Inc (AMD)</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
