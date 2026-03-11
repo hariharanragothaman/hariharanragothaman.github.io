@@ -12,6 +12,27 @@
         </script>
       {% endfor %}
     {% endif %}
+    <button id="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+      <span class="icon-sun">&#9728;</span>
+      <span class="icon-moon">&#9790;</span>
+    </button>
+    <script>
+      (function() {
+        var toggle = document.getElementById('theme-toggle');
+        var meta = document.getElementById('meta-theme-color');
+        toggle.addEventListener('click', function() {
+          var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+          if (isDark) {
+            document.documentElement.removeAttribute('data-theme');
+            localStorage.setItem('theme', 'light');
+            if (meta) meta.setAttribute('content', '#ffffff');
+          } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            if (meta) meta.setAttribute('content', '#0d1117');
+          }
+        });
+      })();
+    </script>
   </body>
-
 </html>

@@ -1,0 +1,328 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #414141;
+  --title-color: #313131;
+  --border-color: #dddddd;
+  --near-black: #111;
+  --dark-gray: #333;
+  --mid-gray: #555;
+  --gray: #777;
+  --silver: #999;
+  --near-white: #f4f4f4;
+  --code-bg: #f4f4f4;
+  --code-color: #bf616a;
+  --link-color: #357edd;
+  --link-hover: #00449e;
+  --card-bg: rgba(0,0,0,.025);
+  --card-hover-bg: rgba(0,0,0,.05);
+  --intro-blue: #e4f2ff;
+  --table-row-bg: #f6f6f6;
+  --table-border: #ddd;
+  --footer-bg: #1E1E24;
+  --footer-text: #e6e6e6;
+  --blockquote-border: #eee;
+  --cover-img-border: rgba(0,0,0,.05);
+  --cover-link-bg: #ffffff;
+  --cover-link-hover-text: #ffffff;
+  --bibtex-bg: rgba(0,0,0,.025);
+  --hr-color: #dddddd;
+  --button-bg: #fff;
+  --abbr-color: #555;
+}
+
+[data-theme="dark"] {
+  --bg-color: #0d1117;
+  --text-color: #c9d1d9;
+  --title-color: #e6edf3;
+  --border-color: #21262d;
+  --near-black: #e6edf3;
+  --dark-gray: #c9d1d9;
+  --mid-gray: #8b949e;
+  --gray: #8b949e;
+  --silver: #6e7681;
+  --near-white: #161b22;
+  --code-bg: #161b22;
+  --code-color: #f47067;
+  --link-color: #58a6ff;
+  --link-hover: #79c0ff;
+  --card-bg: rgba(255,255,255,.04);
+  --card-hover-bg: rgba(255,255,255,.08);
+  --intro-blue: #131d2b;
+  --table-row-bg: #161b22;
+  --table-border: #21262d;
+  --footer-bg: #010409;
+  --footer-text: #c9d1d9;
+  --blockquote-border: #21262d;
+  --cover-img-border: rgba(255,255,255,.08);
+  --cover-link-bg: #161b22;
+  --cover-link-hover-text: #ffffff;
+  --bibtex-bg: rgba(255,255,255,.04);
+  --hr-color: #21262d;
+  --button-bg: #161b22;
+  --abbr-color: #8b949e;
+}
+
+body {
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+}
+
+a:hover, a:focus {
+  color: var(--link-hover);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--title-color);
+}
+
+hr {
+  border-top-color: var(--hr-color);
+}
+
+blockquote {
+  color: var(--gray);
+  border-left-color: var(--blockquote-border);
+}
+
+time {
+  color: var(--gray);
+}
+
+abbr {
+  color: var(--abbr-color);
+}
+
+code {
+  color: var(--code-color);
+  background-color: var(--code-bg);
+}
+
+table {
+  border-color: var(--table-border);
+}
+
+td, th {
+  border-color: var(--table-border);
+}
+
+tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
+  background-color: var(--table-row-bg);
+}
+
+button {
+  background: var(--button-bg);
+  color: var(--text-color);
+}
+
+#intro-title {
+  color: var(--near-black);
+}
+
+#intro-subtitle {
+  color: var(--silver);
+}
+
+#intro-image-links {
+  background-color: var(--near-white);
+}
+
+#intro-cv-wrapper {
+  background-color: var(--intro-blue);
+}
+
+#intro-cv > a {
+  color: var(--text-color);
+}
+
+#everything-else > a {
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+#everything-else > a:hover {
+  background: var(--card-hover-bg);
+}
+
+.cover {
+  background-color: var(--card-bg);
+}
+
+.cover:hover {
+  background-color: var(--card-hover-bg);
+}
+
+.cover-title, .cover-title a {
+  color: var(--title-color);
+}
+
+.cover-subtitle {
+  color: var(--gray);
+}
+
+.cover-venue {
+  color: var(--gray);
+}
+
+.cover-image > a > img {
+  border-color: var(--cover-img-border);
+  background-color: var(--bg-color);
+}
+
+.cover-links > .pub-misc > a {
+  background-color: var(--cover-link-bg);
+}
+
+.cover-links > .pub-misc > a:hover {
+  color: var(--cover-link-hover-text) !important;
+}
+
+#masthead {
+  border-bottom-color: var(--border-color);
+}
+
+#masthead > h1 > a {
+  color: var(--text-color);
+}
+
+footer {
+  background-color: var(--footer-bg);
+  color: var(--footer-text);
+}
+
+#footer-left > time {
+  color: var(--footer-text);
+}
+
+.footer-icon {
+  color: var(--footer-text);
+}
+
+#cv a {
+  color: var(--text-color);
+}
+
+#cv a:hover {
+  color: var(--link-hover);
+}
+
+#cv a b {
+  color: var(--dark-gray);
+}
+
+#cv a b:hover {
+  color: var(--link-hover);
+}
+
+#cv-title > a, #cv-title > a:hover {
+  color: var(--dark-gray);
+}
+
+.cv-description {
+  color: var(--gray) !important;
+}
+
+.cv-social-link-text-wrapper > a {
+  color: var(--text-color);
+}
+
+.parametric-articles {
+  border-left-color: var(--border-color);
+}
+
+.bibtex-wrapper {
+  background-color: var(--bibtex-bg);
+}
+
+.equal-contribution {
+  color: var(--gray);
+}
+
+.pub-misc a {
+  color: var(--link-color) !important;
+}
+
+.pub-misc a:hover {
+  color: var(--link-hover) !important;
+}
+
+.cv-blue-link a {
+  color: var(--link-color) !important;
+}
+
+.cv-blue-link a:hover {
+  color: var(--link-hover) !important;
+}
+
+.fake-image {
+  background-color: var(--card-bg);
+  border-color: var(--border-color);
+}
+
+.lead {
+  color: var(--dark-gray);
+}
+
+#paper-title-wrapper {
+  background-color: var(--near-white);
+  border-bottom-color: var(--border-color);
+}
+
+.author > a {
+  color: var(--text-color);
+}
+
+#venue, #paper-equal-contribution {
+  color: var(--mid-gray);
+}
+
+#paper-materials > a {
+  background-color: var(--card-bg);
+}
+
+#paper-materials > a:hover {
+  background: var(--card-hover-bg);
+}
+
+#theme-toggle {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 1000;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, transform 0.2s ease;
+  padding: 0;
+  line-height: 1;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+#theme-toggle .icon-sun,
+#theme-toggle .icon-moon {
+  display: none;
+}
+
+[data-theme="dark"] #theme-toggle .icon-sun {
+  display: inline;
+}
+
+html:not([data-theme="dark"]) #theme-toggle .icon-moon {
+  display: inline;
+}
