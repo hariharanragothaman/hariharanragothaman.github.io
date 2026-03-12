@@ -62,7 +62,7 @@
       url: https://hackrpi2024.devpost.com/
 
 - venue: CalHack - World's largest hackathon, University of California, Berkeley
-  venue-shorthand: Judge
+  venue-shorthand:
   position: Judge
   years:
     - year: 2024

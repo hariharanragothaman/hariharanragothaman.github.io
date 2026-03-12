@@ -1,10 +1,10 @@
 <div class="cv-left-date">{{ press.month }} {{ press.year }}</div>
-<!--div>"<a href="{{ press.link }}">{{ press.title }}</a>," {{ press.publisher }}</div-->
+<div>
+{% if press.publisher[0].url %}
+<a href="{{ press.publisher[0].url }}">{{ press.title }}</a>
+{% else %}
 {{ press.title }}
-<div class="cv-description">
-{% for item in press.publisher %}
-	<a href="{{ item.url }}"> {{ item.name }} </a>{% if forloop.last == false %}, {% endif %}
-{% endfor %}
+{% endif %}
+— {{ press.publisher[0].name }}
 </div>
-
 <div class="cv-spacer-small"></div>

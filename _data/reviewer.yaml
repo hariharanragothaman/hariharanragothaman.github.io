@@ -1,79 +1,106 @@
+- venue: Medical Imaging with Deep Learning
+  venue-shorthand: MIDL
+  years:
+    - year: 2026
+      url: https://2026.midl.io/
+
+- venue: The ACM Web Conference 2026 Industry Track
+  venue-shorthand: WWW
+  years:
+    - year: 2026
+      url: https://www2026.thewebconf.org/
+
+- venue: Pattern Recognition
+  venue-shorthand:
+  venue-suffix: Elsevier Journal
+  years:
+    - year: 2026
+      url: https://www.sciencedirect.com/journal/pattern-recognition
+
+- venue: Computer & Electrical Engineering
+  venue-shorthand:
+  venue-suffix: Elsevier Journal
+  years:
+    - year: 2026
+      url: https://www.sciencedirect.com/journal/computers-and-electrical-engineering
+
 - venue: The 39th Annual Conference on Neural Information Processing Systems
-  venue-shorthand: NeurIPS 2025
+  venue-shorthand: NeurIPS
   years:
     - year: 2025
       url: https://neurips.cc/
 
 - venue: (BERT^2S) -  Workshop on Recent Advances on Time Series Foundation Models
-  venue-shorthand: NeurIPS 2025
+  venue-shorthand: NeurIPS
   years:
     - year: 2025
       url: https://berts-workshop.github.io/
 
 - venue: Software-X
-  venue-shorthand: Elsevier Journal
+  venue-shorthand:
+  venue-suffix: Elsevier Journal
   years:
     - year: 2025
       url: https://www.sciencedirect.com/journal/softwarex
 
 - venue: International Conference on Information Systems, Nashville, Tennessee, USA
-  venue-shorthand: ICIS-2025
+  venue-shorthand: ICIS
   years:
     - year: 2025
       url: https://icis2025.aisconferences.org/
 
 
 - venue: 34th International Joint Conference on Artificial Intelligence, Montreal, Canada
-  venue-shorthand: IJCAI-2025
+  venue-shorthand: IJCAI
   years:
     - year: 2025
       url: https://2025.ijcai.org/
 
 - venue: 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, Canada
-  venue-shorthand: SIGKDD-2025
+  venue-shorthand: SIGKDD
   years:
     - year: 2025
       url: https://kdd2025.kdd.org/
 
 - venue: IEEE 8th International Conference on Electrical, Control and Computer Engineering, Malaysia
-  venue-shorthand: InECCE 2025
+  venue-shorthand: InECCE
   years:
     - year: 2025
       url: https://ftkee.umpsa.edu.my/index.php/en/news-event/ieee-8th-international-conference-on-electrical-control-and-computer-engineering-inecce-2025
 
 - venue: 7th IEEE Symposium on Computers & Informatics, Kaula Lumpur, Malaysia
-  venue-shorthand: ISCI-2025
+  venue-shorthand: ISCI
   years:
     - year: 2025
       url: https://www.isci.asia/
 
 - venue: International Joint Conference on Neural Networks, Rome
-  venue-shorthand: IJCNN-2025
+  venue-shorthand: IJCNN
   years:
     - year: 2025
       url: https://2025.ijcnn.org/
 
 - venue: Medical Imaging with Deep Learning, Salt Lake City, Utah
-  venue-shorthand: MIDL-2025
+  venue-shorthand: MIDL
   years:
     - year: 2025
       url: https://2025.midl.io/
 
 - venue: The AHLI Conference on Health, Inference, and Learning, Berkeley, California
-  venue-shorthand: CHIL 2025
+  venue-shorthand: CHIL
   years:
     - year: 2025
       url: https://chil.ahli.cc/
 
 - venue: 18th International Conference of Students of Systematic Musicology, Oslo, Norway
-  venue-shorthand: SysMus-2025
+  venue-shorthand: SysMus
   years:
     - year: 2025
       url: https://www.uio.no/ritmo/english/news-and-events/events/conferences/2025/sysmus25/
 
 
 - venue: 15th IEEE Symposium on Computer Applications & Industrial Electronics, Penang Island, Malaysia
-  venue-shorthand: ISCAIE-2025
+  venue-shorthand: ISCAIE
   years:
     - year: 2025
       url: https://www.iscaie.org/
@@ -84,44 +111,95 @@
     - year: 2025
       url: https://www.igi-global.com/
 
-- venue: ICLR 2025 Workshop on Foundation Models in the Wild, Singapore
-  venue-shorthand: ICLR 2025 FM-Wild Workshop
+- venue: ICLR Workshop on Foundation Models in the Wild, Singapore
+  venue-shorthand: ICLR FM-Wild Workshop
   years:
     - year: 2025
       url: https://fm-wild-community.github.io/
 
 - venue: Deep Generative Model in Machine Learning - Theory, Principle and Efficacy, Singapore
-  venue-shorthand: ICLR 2025 DeLTa Workshop
+  venue-shorthand: ICLR DeLTa Workshop
   years:
     - year: 2025
       url: https://delta-workshop.github.io/#home
 
 - venue: 21st IEEE International Colloquium on Signal Processing & Its Applications, Langkawi Island, Malaysia
-  venue-shorthand: CSPA-2025
+  venue-shorthand: CSPA
   years:
     - year: 2025
       url: https://sites.google.com/view/asprg-cspa/home
 
 - venue: Entrepreneurship, Innovation and Society Conference
-  venue-shorthand:  EIS 3.0
+  venue-shorthand: EIS
   years:
     - year: 2025
       url: https://www.bmu.edu.in/eis-conference2025/index.html
 
+- venue: Neurocomputing
+  venue-shorthand:
+  venue-suffix: Elsevier Journal
+  years:
+    - year: 2025
+      url: https://www.sciencedirect.com/journal/neurocomputing
+
+- venue: ISA Transactions
+  venue-shorthand:
+  venue-suffix: Elsevier Journal
+  years:
+    - year: 2025
+      url: https://www.sciencedirect.com/journal/isa-transactions
+
+- venue: Software Impacts
+  venue-shorthand:
+  venue-suffix: Elsevier Journal
+  years:
+    - year: 2025
+      url: https://www.sciencedirect.com/journal/software-impacts
+
+- venue: IEEE Global Engineering Education Conference
+  venue-shorthand: EDUCON
+  years:
+    - year: 2025
+      url: https://2025.ieee-educon.org/
+
+- venue: 2025 Scholarship Selection Committee
+  venue-shorthand: ISA
+  years:
+    - year: 2025
+      url: https://www.isa.org/membership/students/scholarships
+
+- venue: International Conference on Smart Computing & Intelligent Systems
+  venue-shorthand: ICSCIS
+  years:
+    - year: 2025
+      url: https://conference.poornima.edu.in/icscis/committee.html
+
+- venue: 23rd USENIX Conference on File and Storage Technologies
+  venue-shorthand: FAST
+  years:
+    - year: 2025
+      url: https://fast25ae.usenix.hotcrp.com/users/pc
+
+- venue: Immersive Learning Research Network Conference
+  venue-shorthand: iLRN
+  years:
+    - year: 2025
+      url: https://www.immersivelrn.org/ilrn2025/organizing-committee/
+
 - venue: Machine Learning and Compression Workshop
-  venue-shorthand: NeurIPS 2024
+  venue-shorthand: NeurIPS
   years:
     - year: 2024
       url: https://neuralcompression.github.io/workshop24
 
 - venue: Association of Health Learning and Inference - Machine Learning for Health Symposium, San Diego, California
-  venue-shorthand: ML4H 2024
+  venue-shorthand: ML4H
   years:
     - year: 2024
       url: https://ahli.cc/ml4h/
 
 - venue: IEEE International Conference on Advanced Networks and Telecommunications Systems, IIT Guwahati, Assam, India
-  venue-shorthand: ANTS-2024
+  venue-shorthand: ANTS
   years:
     - year: 2024
       url: https://ants2024.ieee-ants.org/
@@ -133,19 +211,19 @@
       url: https://joss.theoj.org/
 
 - venue: International Conference on Data, Computation and Communication, VIT Bhopal, India
-  venue-shorthand: ICDCC 2024
+  venue-shorthand: ICDCC
   years:
     - year: 2024
       url: https://vitbhopal.ac.in/icdcc2024/
 
 - venue: Joint International Scientific Conference - Information Technologies for Intelligent Decision Support
-  venue-shorthand: ITIDS-2024
+  venue-shorthand: ITIDS
   years:
     - year: 2024
       url: https://www.cuchd.in/conference/itids-2024/
 
 - venue: Safe Generative AI Workshop, Vancouver, Canada
-  venue-shorthand: NeurIPS 2024
+  venue-shorthand: NeurIPS
   years:
     - year: 2024
       url: https://safegenaiworkshop.github.io/
@@ -157,7 +235,13 @@
       url: http://ieeesilcon.org.in/
 
 - venue: 2nd IEEE International Conference on Advancements and Key Challenges in Green Energy and Computing, India
-  venue-shorthand: AKGEC-2024
+  venue-shorthand: AKGEC
   years:
     - year: 2024
       url: https://enconf.akgec.ac.in/
+
+- venue: Canadian C++ Conference
+  venue-shorthand: CPPNorth
+  years:
+    - year: 2023
+      url: https://cppnorth.ca/

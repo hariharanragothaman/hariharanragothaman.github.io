@@ -17,14 +17,16 @@
 </div>
 
 <div>
+	{% if venue.venue-shorthand %}
+	{{ venue.venue-shorthand }},
+	{% endif %}
 	{% if y.url %}
 	<a href="{{ y.url }}">{{ venue.venue }}</a>
 	{% else %}
 	{{ venue.venue }}
 	{% endif %}
-
-	{% if venue.venue-shorthand %}
-	(<b>{{ venue.venue-shorthand }}</b>)
+	{% if venue.venue-suffix %}
+	({{ venue.venue-suffix }})
 	{% endif %}
 	{% if venue.venue-at %}
 	at {{ venue.venue-at }}

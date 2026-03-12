@@ -16,18 +16,16 @@ Expects a `venue` object with keys:
 </div>
 
 <div>
-    {% if venue.position %}
-    <span class="cv-role">{{ venue.position }}</span>&nbsp;–&nbsp;
+    {% if venue.venue-shorthand %}
+    {{ venue.venue-shorthand }},
     {% endif %}
-
+    {% if venue.position %}
+    {{ venue.position }}&nbsp;–&nbsp;
+    {% endif %}
     {% if y.url %}
     <a href="{{ y.url }}">{{ venue.venue }}</a>
     {% else %}
     {{ venue.venue }}
-    {% endif %}
-
-    {% if venue.venue-shorthand %}
-    &nbsp;(<b>{{ venue.venue-shorthand }}</b>)
     {% endif %}
 </div>
 

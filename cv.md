@@ -8,7 +8,7 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}"> {{ site.title }} </a></h1>
 
-<p id="cv-subtitle"><i> {{ site.tagline }} </i></p>
+<p id="cv-subtitle">{{ site.tagline }}</p>
 
 
 <div style="text-align: justify;">
@@ -21,7 +21,7 @@ jsarr:
 </p>
 
 <p>
-    Highlights: 23 Publications | 18 Invited Talks | 90+  Manuscripts Reviewed | 11 Hackathons Judged   
+    Highlights: 23 Publications | 20+ Invited Talks | 100+  Manuscripts Reviewed | 11 Hackathons Judged   
 </p>
 
 </div>

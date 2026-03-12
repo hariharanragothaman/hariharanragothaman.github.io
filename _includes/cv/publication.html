@@ -23,7 +23,7 @@
 	{% endfor %}
 </div>
 
-<div><i>{{ pub.venue }}{% if pub.venue-shorthand %} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</i></div>
+<div>{{ pub.venue }}{% if pub.venue-shorthand %} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</div>
 
 <div class="pub-misc">
 {% if pub.url or pub.pdf or pub.coming-soon %}

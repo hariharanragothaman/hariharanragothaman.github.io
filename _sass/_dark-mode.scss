@@ -203,7 +203,7 @@ footer {
 }
 
 #cv a {
-  color: var(--text-color);
+  color: var(--link-color);
 }
 
 #cv a:hover {
@@ -211,15 +211,19 @@ footer {
 }
 
 #cv a b {
-  color: var(--dark-gray);
+  color: var(--link-color);
 }
 
 #cv a b:hover {
   color: var(--link-hover);
 }
 
-#cv-title > a, #cv-title > a:hover {
-  color: var(--dark-gray);
+#cv-title > a {
+  color: var(--title-color);
+}
+
+#cv-title > a:hover {
+  color: var(--link-hover);
 }
 
 .cv-description {
@@ -227,7 +231,7 @@ footer {
 }
 
 .cv-social-link-text-wrapper > a {
-  color: var(--text-color);
+  color: var(--link-color);
 }
 
 .parametric-articles {
