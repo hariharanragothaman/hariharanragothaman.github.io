@@ -1,43 +1,47 @@
-- institution: Sigma Xi Honor Society
+- institution: <a href="https://aws.amazon.com/developer/community/community-builders/">AWS Community Builder</a> - Security Track
+  position: Community Builder (Security)
+  year: 2026
+
+- institution: <a href="https://www.sigmaxi.org/">Sigma Xi Honor Society</a>
   position: Full Member
   year: 2025
 
-- institution: IICSPA, International Institute of Computer Science Professional Association
+- institution: <a href="https://www.iicspa.org/">IICSPA</a>, International Institute of Computer Science Professional Association
   position: Fellow
   year: 2025
 
-- institution: HIMSS, Healthcare Information and Management Systems Society
+- institution: <a href="https://www.himss.org/">HIMSS</a>, Healthcare Information and Management Systems Society
   position: Member
   year: 2025
 
-- institution: CyberRisk Collaborative Community
+- institution: <a href="https://cyberriskcollaborative.com/">CyberRisk Collaborative Community</a>
   position: Member
   year: 2025
 
-- institution: RedGate
-  position:  Ambassador
+- institution: <a href="https://www.red-gate.com/">RedGate Software</a>
+  position: Ambassador
   year: 2025
 
-- institution: DevOps Institute
+- institution: <a href="https://www.devopsinstitute.com/">DevOps Institute</a>
   position: People Cert Ambassador
   year: 2025
 
-- institution: American Corporate Partners - Veterans Mentorship Program
+- institution: <a href="https://www.acp-advisornet.org/">American Corporate Partners</a> - Veterans Mentorship Program
   position: Mentor / Advisor
   year: 2025
 
-- institution: AAAI, Association of Advancement of Artificial Intelligence
-  position:  Member
+- institution: <a href="https://www.aaai.org/">AAAI</a>, Association of Advancement of Artificial Intelligence
+  position: Member
   year: 2025
 
-- institution: ISA, International Society of Automation
+- institution: <a href="https://www.isa.org/">ISA</a>, International Society of Automation
   position: Senior Member
   year: 2024
 
-- institution: IEEE, Institute of Electrical and Electronics Engineers
+- institution: <a href="https://www.ieee.org/">IEEE</a>, Institute of Electrical and Electronics Engineers
   position: Senior Member
   year: 2024
 
-- institution: ACM, ACM-SIGSOFT, ACM-SIGBED, Association for Computing Machinery
+- institution: <a href="https://www.acm.org/">ACM</a>, ACM-SIGSOFT, ACM-SIGBED, Association for Computing Machinery
   position: Member
   year: 2024
