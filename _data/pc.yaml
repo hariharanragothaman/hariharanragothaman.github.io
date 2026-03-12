@@ -1,111 +1,95 @@
 - venue: IEEE Data Port Site Enhancement Sub Committee
-  venue-shorthand: SES
   position: Technical Committee Member
   years:
     - year: 2025
       url: https://ieee-dataport.org/
 
 - venue: IEEE Day 2025
-  venue-shorthand:
   position: Ambassador
   years:
     - year: 2025
       url: https://ieeeday.org/ambassadors-2025/
 
-- venue:   IEEE Government Relations AI Policy Committee
-  venue-shorthand: AIPC
+- venue: IEEE Government Relations AI Policy Committee
   position: Technical Committee Member
   years:
     - year: 2025
       url: https://ieeeusa.org/committees/aipc/
 
 - venue: IEEE USA Government Relations R&D Policy Committee
-  venue-shorthand: RDPC
   position: Technical Committee Member
   years:
     - year: 2025
       url: https://ieeeusa.org/committees/rdpc/
 
 - venue: 39th Annual AAAI Conference on Artificial Intelligence
-  venue-shorthand: AAAI-UC
-  position: Mentor, Technical Program Committee Member
+  position: TPC Member & Mentor
   years:
     - year: 2025
       url: https://aaai.org/conference/aaai/aaai-25/
 
 - venue: IEEE Global Engineering Education Conference, London, UK
-  venue-shorthand: IEEE EDUCON
   position: Technical Program Committee Member
   years:
     - year: 2025
       url: https://2025.ieee-educon.org/
 
-- venue: IEEE Computer Society, Supercharge Your Career - Micro Mentoring Initiative
-  venue-shorthand: IEEE-CS-SYP
+- venue: IEEE Computer Society (IEEE-CS-SYP), Micro Mentoring Initiative
   position: Mentor
   years:
     - year: 2025
       url: https://ieeeusa.org/committees/rdpc/
 
 - venue: 23rd USENIX Conference on File and Storage Technologies, SantaClara, USA
-  venue-shorthand: FAST
-  position: Technical Program Committee Member
+  position: TPC Member
   years:
     - year: 2025
       url: https://fast25ae.usenix.hotcrp.com/users/pc
 
 - venue: 11th International Conference of the Immersive Learning Research Network
-  venue-shorthand: iLRN
-  position: Technical Program Committee Member
+  position: TPC Member
   years:
     - year: 2025
       url: https://www.immersivelrn.org/ilrn2025/organizing-committee/
 
 - venue: IEEE 1st International Conference on Materials, Robotics & Automation, Computer, and Control
-  venue-shorthand: ICMRACC
-  position: International Technical Committee
+  position: TPC Member
   years:
     - year: 2025
       url: https://vjec.ac.in/icmracc/committees/technical-committee/
 
 - venue: IEEE International Conference on Augmented Reality, Intelligent Systems, and Industrial Automation
-  venue-shorthand: ARIIA
   position: Session Chair, International Advisory Committee, Technical Steering Member
   years:
     - year: 2024
       url: https://conference.manipal.edu/ARIIA2024/SessionChair
 
 - venue: 1st International Conference on Sustainable Computing and Intelligent Systems
-  venue-shorthand: ICSCIS
   position: Distinguished Reviewer, International Advisory Committee
   years:
     - year: 2025
       url: https://conference.poornima.edu.in/icscis/committee.html
 
 - venue: International Conference on Multidisciplinary Research
-  venue-shorthand: ICMR
   position: International Advisory Board Member
   years:
     - year: 2024
       url: https://icmr-iitm.com/
 
 - venue: Canadian C++ Conference
-  venue-shorthand: CPPNorth
   position: Technical Program Committee Member
   years:
     - year: 2023, 2024, 2025
       url: https://cppnorth.ca/
 
 - venue: IEEE Business Engineering and Industrial Applications Colloquium
-  venue-shorthand: BEIAC
-  position: Technical Program Committee Member
+  position: TPC Member
   years:
     - year: 2013
       url: https://ieeexplore.ieee.org/xpl/conhome/6554178/proceeding
 
 - venue: International Conference on Electronic Devices, Systems and Applications
-  venue-shorthand: ICEDSA
-  position: Technical Program Committee Member
+  position: TPC Member
   years:
     - year: 2012
       url: https://ieeexplore.ieee.org/xpl/conhome/6504611/proceeding
