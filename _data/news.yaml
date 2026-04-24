@@ -17,6 +17,10 @@
   description: Reviewer at <a href="https://www2026.thewebconf.org/"> The ACM Web Conference 2026 Industry Track </a>
 
 - year: 2026
+  year-extra: April
+  description: Featured in <a href="https://www.computer.org/publications/tech-news/insider-membership-news/top-30-rogothaman">Computing's Top 30: Insider Interview</a> by IEEE Computer Society
+
+- year: 2026
   year-extra: March
   description: <a href="https://builder.aws.com/community/community-builders">AWS Community Builder</a> (Security) — Recognized for contributions in AWS Security.
 
