@@ -18,6 +18,12 @@
   year-extra: July
   description: Reviewer at  <a href="https://2026.midl.io/"> Medical Imaging with Deep Learning (MIDL 2026) </a>
 
+#-------------------------------------------- June  ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- year: 2026
+  year-extra: June
+  description: Published <a href="https://github.com/hariharanragothaman/dockpulse">DockPulse</a>, a Container Resource Profiler & Right-Sizer for Docker, on <a href="https://hub.docker.com/repository/docker/hariharanragothaman/dockpulse/general">Docker Hub</a>
+
 - year: 2026
   year-extra: April
   description: Reviewer at <a href="https://www2026.thewebconf.org/"> The ACM Web Conference 2026 Industry Track </a>
