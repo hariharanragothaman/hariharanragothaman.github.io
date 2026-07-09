@@ -22,7 +22,7 @@
 
 - year: 2026
   year-extra: June
-  description: Published <a href="https://github.com/hariharanragothaman/dockpulse">DockPulse</a>, a Container Resource Profiler & Right-Sizer for Docker, on <a href="https://hub.docker.com/repository/docker/hariharanragothaman/dockpulse/general">Docker Hub</a>
+  description: Published <a href="https://github.com/hariharanragothaman/dockpulse">DockPulse</a>, a Container Resource Profiler & Right-Sizer for Docker, as a package on <a href="https://hub.docker.com/repository/docker/hariharanragothaman/dockpulse/general">Docker Hub</a> and <a href="https://pypi.org/project/dockpulse/">PyPI</a> — reaching <a href="https://pypistats.org/packages/dockpulse">70,000+ downloads/month</a>
 
 - year: 2026
   year-extra: April
@@ -34,7 +34,7 @@
 
 - year: 2026
   year-extra: March
-  description: Started building and published <a href="https://github.com/hariharanragothaman/dockpulse">DockPulse</a>, a Container Resource Profiler & Right-Sizer for Docker, as a package on <a href="https://hub.docker.com/repository/docker/hariharanragothaman/dockpulse/general">Docker Hub</a> and <a href="https://pypi.org/project/dockpulse/">PyPI</a> — reaching <a href="https://pypistats.org/packages/dockpulse">70,000+ downloads/month</a>
+  description: Started building <a href="https://github.com/hariharanragothaman/dockpulse">DockPulse</a>, a Container Resource Profiler & Right-Sizer for Docker
 
 - year: 2026
   year-extra: March
