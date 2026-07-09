@@ -488,6 +488,10 @@
 #-------------------------------------------- 2024 September -----------------------------------------------------------
 - year: 2024
   year-extra: September
+  description: Started building <a href="https://github.com/hariharanragothaman/freeRTOS-visualizer">freeRTOS-visualizer</a>, a Python tool for real-time FreeRTOS task-state visualization over serial, later published as a package on <a href="https://pypi.org/project/freertos-visualizer/">PyPI</a> — reaching <a href="https://pypistats.org/packages/freertos-visualizer">70,000+ downloads/month</a>
+
+- year: 2024
+  year-extra: September
   description: Reviewer at <a href="https://joss.theoj.org/">Journal of Open Source Software</a>
 
 - year: 2024
