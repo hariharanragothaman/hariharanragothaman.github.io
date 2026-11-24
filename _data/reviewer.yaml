@@ -24,6 +24,13 @@
     - year: 2026
       url: https://www.sciencedirect.com/journal/computers-and-electrical-engineering
 
+- venue: Journal of Information Security and Applications
+  venue-shorthand:
+  venue-suffix: Elsevier Journal
+  years:
+    - year: 2026
+      url: https://www.sciencedirect.com/journal/journal-of-information-security-and-applications
+
 - venue: The 39th Annual Conference on Neural Information Processing Systems
   venue-shorthand: NeurIPS
   years:
